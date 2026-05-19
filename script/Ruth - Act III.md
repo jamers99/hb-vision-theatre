@@ -28,13 +28,13 @@
 **NAOMI** — “No, no, this is no cause for celebration! Please, everyone go about your business!”
 
 
-**MARY** — “Ten years you have been gone, and now you return! Telling us not to gather? Please Naomi, we have much to catch up on. What has God done that you should return now, and without your family?”
+**RAHAB** — “Ten years you have been gone, and now you return! Telling us not to gather? Please Naomi, we have much to catch up on. What has God done that you should return now, and without your family?”
 
 
 **NAOMI** — “My husband and two sons are dead. I have no heritage! I have nothing to my name! Please, I beg you all, go, be about your business, for I am cursed by God!”
 
 
-**MARY** — “Naomi I am so…”
+**RAHAB** — “Naomi I am so…”
 
 
 **NAOMI** — “Keep your sympathy! I must return home, where I can try and start a new life.”
@@ -42,7 +42,7 @@
 
 *The crowd disperses.*
 
-**MARY** — “Well then we shall walk with you dear, to your home.”
+**RAHAB** — “Well then we shall walk with you dear, to your home.”
 
 
 **NAOMI** — “Very well.”
@@ -54,13 +54,13 @@
 **NAOMI** — “What of my mother?”
 
 
-**MARY** — “She’s gone, she passed only a few months after you and Elimalek had left… She died in the land she loved.”
+**RAHAB** — “She’s gone, she passed only a few months after you and Elimalek had left… She died in the land she loved.”
 
 
 **NAOMI** — “Where is she buried?”
 
 
-**MARY** — “The cherry tree, by spring lake. I’ll take you there first thing in the morning.”
+**RAHAB** — “The cherry tree, by spring lake. I’ll take you there first thing in the morning.”
 
 
 **ABIGAIL** — “Here we are!”
@@ -68,13 +68,13 @@
 
 *Naomi walks around the house, dusty, and abandoned.*
 
-**MARY** — “Had I known you were coming, I would have made sure to clean.”
+**RAHAB** — “Had I known you were coming, I would have made sure to clean.”
 
 
 **NAOMI** — “Please, if I may…”
 
 
-**MARY** — “Of-course.”
+**RAHAB** — “Of-course.”
 
 
 *Naomi goes inside alone, to take in the home.*
@@ -110,7 +110,7 @@
 **ELIZABETH** — “Oh, how…?”
 
 
-**MARY** — “Wonderful! To be grafted into the Hebrew community is such a testament of the love and mercies of our God. A God of and for all men.”
+**RAHAB** — “Wonderful! To be grafted into the Hebrew community is such a testament of the love and mercies of our God. A God of and for all men.”
 
 
 **ELIZABETH** — “Oh yes… that is so interesting. Tell me sweetheart, wasn’t it our judge Ehud that killed the Moabite King only a few short decades ago?”
@@ -122,7 +122,7 @@
 **ELIZABETH** — “I see… but isn’t it a little strange to move…”
 
 
-**MARY** — “Rehab! she too had come from an enemy of our people, Jericho. She, after rescuing our spies, accepted our God and married into our community. Her husband died a few years ago, though not before having a son. Boaz, he’s very respectable and has built a large estate for himself. He helps many in the community.”
+**RAHAB** — “Rehab! she too had come from an enemy of our people, Jericho. She, after rescuing our spies, accepted our God and married into our community. Her husband died a few years ago, though not before having a son. Boaz, he’s very respectable and has built a large estate for himself. He helps many in the community.”
 
 
 **ELIZABETH** — “Oh yes, well I was just saying…”
@@ -137,10 +137,10 @@
 **NAOMI** — “It will take some time to readjust. But with Ruth by my side, the journey will be much easier.”
 
 
-**MARY** — “Well then we will let you to it. I will come back tomorrow with some fresh breakfast, and to walk you to your mothers grave. Shalom”
+**RAHAB** — “Well then we will let you to it. I will come back tomorrow with some fresh breakfast, and to walk you to your mothers grave. Shalom”
 
 
-**MARY AND ELIZABETH LEAVE**
+**RAHAB AND ELIZABETH LEAVE**
 
 
 **NAOMI** — “Shalom… I am sorry for Elizabeth, she is a good woman, though if my memory does not forsake me, she has always been a bit nosy.”
@@ -225,14 +225,14 @@ She is a crook, I know I’m not wrong
 **ELIZA** — “I won’t tell a soul.”
 
 
-**NATHAN & ELIZA**
+**ELIZA**
 
 Don’t spread this, I know it’s the truth  
 Ruth that new girl, evil since youth  
 She’s a menace, wicked to the core  
 She’ll be leaving soon, of that I am sure  
 
-**NATHAN, ELIZA, HANNAH, ABIGAIL, ELIZABETH**
+**ELIZA, HANNAH, ABIGAIL, ELIZABETH**
 
 Please listen, have you heard the news  
 Ruth is no good, I’ve seen all the clues  
@@ -831,7 +831,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 **LEWIS** — “Accord?”
 
 
-**BOAZ** — “Did you not hear? Naomi, who has returned from the region of Moab, is selling the portion of land that belongs to our relative Elimelech. You are the first redeemer, so I am legally informing you, that while in the presence of all these witnesses, you can redeem the property as your own. However if you don’t, I, as the second in line, will.”
+**BOAZ** — “Did you not hear? Naomi, who has returned from the region of Moab, is selling the portion of land that belongs to our relative Elimalek. You are the first redeemer, so I am legally informing you, that while in the presence of all these witnesses, you can redeem the property as your own. However if you don’t, I, as the second in line, will.”
 
 
 **LEWIS** — “A portion of land? That I am to redeem and receive as my own?! What a lovely turn of events! I redeem it!”
@@ -915,7 +915,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 **LEWIS** — “With pleasure!”
 
 
-**BOAZ** — “You are all witnesses today that I have acquired from Naomi all that belonged to Elimelech, Kilion, and Mahlon. I have also acquired Ruth the Moabite, the wife of Mahlon, as my wife to raise up a descendant who will inherit his property, so the name of the deceased might not disappear from among his relatives and from his village.”
+**BOAZ** — “You are all witnesses today that I have acquired from Naomi all that belonged to Elimalek, Kilion, and Mahlon. I have also acquired Ruth the Moabite, the wife of Mahlon, as my wife to raise up a descendant who will inherit his property, so the name of the deceased might not disappear from among his relatives and from his village.”
 
 
 **THE WITNESSES** — “We are witnesses.
@@ -1050,7 +1050,7 @@ Are they getting married!? (married!)
 “ENOUGH! Now,”  
 Boaz met with Ruths redeemer eagerly to see (Eagerly to see)  
 He gave him his own sandal, as a simple simple plea (A simple plea)  
-To Mary Ruth, the girl he loves, you heard it straight from me  
+To RAHAB Ruth, the girl he loves, you heard it straight from me  
 “Ruth and Boaz will be,”  
 Married  
 
@@ -1186,7 +1186,7 @@ THE FINAL SCENE
 **NARRATOR**
 
 For the past hour and half we have witnessed our characters experience both heavy loss and provision.  
-Think back to Elimelech's internal struggle, as he, amidst sorrow and poverty, lead his family from Bethlehem to Moab. Or remember the intense pain Naomi feels, when she looses first her husband and later her two sons, to the unforgiving grip of death. Or what about the Hope enduring through Ruth, a stranger of unwavering loyalty and faith, committing to hold to Naomi’s side, no matter what circumstances may arise. After which emerges Boaz, it is through his benevolence that hope and mercy is granted to our dear widows, touching them in ways that cannot be explained through mere words.  
+Think back to Elimalek's internal struggle, as he, amidst sorrow and poverty, lead his family from Bethlehem to Moab. Or remember the intense pain Naomi feels, when she looses first her husband and later her two sons, to the unforgiving grip of death. Or what about the Hope enduring through Ruth, a stranger of unwavering loyalty and faith, committing to hold to Naomi’s side, no matter what circumstances may arise. After which emerges Boaz, it is through his benevolence that hope and mercy is granted to our dear widows, touching them in ways that cannot be explained through mere words.  
 All this said, the greatest act of hope is still yet to to be revealed. You see, Boaz and Ruth bear a son, Obed, through which comes the lineage of King David—a line extending to our Lord and Savior, Jesus Christ. And there lyes the true hope. You see, Jesus’s birth came through the lineage of Boaz, son of Rehab, a Jerichonite who was grafted into the Jewish people, and Ruth, and while her parents are not revealed, they were certainly Moabite, both Enemies of God, made right through faith. And so we come to the closing of our story.  
 > 🎵 **MUSIC:** End at 2:11
 

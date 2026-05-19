@@ -67,9 +67,8 @@ KNOWN_CHARS = {
     'Mahlon', 'Chilion',
     'Hannah', 'Abigail', 'Elizabeth', 'Rahab',
     'Granny', 'Josh', 'Israelite Leader', 'Zechariah',
-    'Lewis', 'Jonathan', 'Danial',
-    'Boaz', 'Nathan', 'Eliza', 'Mary',
-    'Nathan & Eliza',
+    'Lewis', 'Jonathan', 'Daniel',
+    'Boaz', 'Eliza', 'Orpah', 'Moab Thug',
 }
 
 # Files to convert: list of (input_path, output_path, title, start_active)

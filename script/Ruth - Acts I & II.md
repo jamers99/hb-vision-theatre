@@ -483,7 +483,7 @@ I’ll bless my homeland, till I die.
 
 **NARRATOR**
 
-Driven by desperation, Elimelech, Naomi, and their two sons set out on the long, sixty-mile trek toward Moab. The journey is anything but easy. The heat and lack of good nutrition, slows travels to a crawl. And to make matters worse, Elimelech’s chest pains become a regular occurrence, becoming more painful with each attack. Now, with Moab just a few miles away, the family takes their last shared rest, gathering their strength in the shade of an elm tree.  
+Driven by desperation, Elimalek, Naomi, and their two sons set out on the long, sixty-mile trek toward Moab. The journey is anything but easy. The heat and lack of good nutrition, slows travels to a crawl. And to make matters worse, Elimalek’s chest pains become a regular occurrence, becoming more painful with each attack. Now, with Moab just a few miles away, the family takes their last shared rest, gathering their strength in the shade of an elm tree.  
 
 **ELIMALEK** — “Boys you see the watering hole yonder, go fill this basin and bring it back to finish our journey with.”
 
