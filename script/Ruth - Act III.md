@@ -60,7 +60,7 @@
 **NAOMI** — “Where is she buried?”
 
 
-**MARY—“** — The cherry tree, by spring lake. I’ll take you there first thing in the morning.”
+**MARY** — “The cherry tree, by spring lake. I’ll take you there first thing in the morning.”
 
 
 **ABIGAIL** — “Here we are!”
@@ -424,7 +424,7 @@ Did you see the way they looked dear?
 
 **ABIGAIL** — “I agree, It’s wise to not spread things.”
 
-**ELIZABETH—“** — Hmmm”
+**ELIZABETH** — “Hmmm”
 
 
 *(Group Ensemble) (Abigail on the echo)*  
@@ -580,13 +580,13 @@ Love is in the air
 **RUTH** — “I thought…”
 
 
-**REHAB** — “Just come dear! No need to ask silly questions.”
+**RAHAB** — “Just come dear! No need to ask silly questions.”
 
 
 **RUTH** — “Oh thank you!”
 
 
-**REHAB** — “Of-course my dear. Anytime.”
+**RAHAB** — “Of-course my dear. Anytime.”
 
 
 > 🎵 **MUSIC:** A Chill Draft About the Knees
@@ -757,7 +757,7 @@ I think I maybe, just maybe, falling too
 **RUTH** — “Mother!?”
 
 
-**NOAMI** — “I know dear, it sounds strange, but understand its significance. As a relative of my own, he is the man that can redeem our property, and take you under his protection in marriage.”
+**NAOMI** — “I know dear, it sounds strange, but understand its significance. As a relative of my own, he is the man that can redeem our property, and take you under his protection in marriage.”
 
 
 **RUTH** — “But why must I in darkness?”
@@ -946,7 +946,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 “This next scene happens as follows”  
 
-**NARRATOR, REHAB, (DANIAL)**
+**NARRATOR, RAHAB, (DANIAL)**
 
 Boaz does, go on one knee (on one knee)  
 He does ask, if she would be (Ruth would be)  
@@ -983,11 +983,11 @@ It’s strange, did he really intend?
 
 The rumors never end!  
 
-**REHAB**
+**RAHAB**
 
 Shalom Everyone. I am sure you all heard the news, but I should probably set everything in perfect perspective. So listen dears to me!  
 
-**REHAB**
+**RAHAB**
 
 You all know Ruth, she’s kinda new, and really quiet polite  
 She’s come from far, and pretty too, and also misses right!  
@@ -1008,7 +1008,7 @@ Do you know when they’ll wed?
 **ABIGAIL** — I knew these facts, I clearly said!
 
 
-**REHAB**
+**RAHAB**
 
 In June!  
 
@@ -1018,7 +1018,7 @@ Will they be married soon
 **ELIZABETH** — Brand new romance, I love this news!
 
 
-**REHAB** — Yes ooo
+**RAHAB** — Yes ooo
 
 
 **HANNAH** — Is this a lie or is it real?
@@ -1034,7 +1034,7 @@ Will they be married soon
 **ELIZABETH** — who took her in?
 
 
-**REHAB** — Fine I’ll say it once again!
+**RAHAB** — Fine I’ll say it once again!
 
 -  
 
@@ -1045,7 +1045,7 @@ Who took her in, is she the one?
 We’re waiting eagerly to see  
 Are they getting married!? (married!)  
 
-**RAHEB (ENSEMBLE)**
+**RAHAB (ENSEMBLE)**
 
 “ENOUGH! Now,”  
 Boaz met with Ruths redeemer eagerly to see (Eagerly to see)  
@@ -1081,14 +1081,14 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 *People laugh and clap.*
 
-**REHAD** — “Oh Boaz, Ruth. Never have I imagined that so many years ago, when I hid those Hebrew spies, that God would do so much work in my life. Blessing me with an amazing son, and an amazing new daughter. And many things could be said this evening about the couple of the hour, speaking of Ruth’s decision to follow God, her loyalty, her grace. Or of Boaz’s kindness, his generosity, his caring heart. But no, I will say none of these things, for they go without saying, no rather, I will give a word from my own mother.
+**RAHAB** — “Oh Boaz, Ruth. Never have I imagined that so many years ago, when I hid those Hebrew spies, that God would do so much work in my life. Blessing me with an amazing son, and an amazing new daughter. And many things could be said this evening about the couple of the hour, speaking of Ruth’s decision to follow God, her loyalty, her grace. Or of Boaz’s kindness, his generosity, his caring heart. But no, I will say none of these things, for they go without saying, no rather, I will give a word from my own mother.
 
 
 ### 🎵 Rehab’s Dance
 
 > 🎵 **MUSIC:** Unzer Nigun Our Melody
 
-**REHAB (DANIAL)**
+**RAHAB (DANIAL)**
 
 “Boaz and Ruth this is for you”  
 
@@ -1156,25 +1156,25 @@ I know our God has given us this special skill
 **DANIAL** — “Rehab, you look awfully nice this evening.”
 
 
-**REHAB** — “Thank you Danial.”
+**RAHAB** — “Thank you Danial.”
 
 
 **DANIAL** — “How do you get on since the death of your first husband?”
 
 
-**REHAB** — “The Lord has provided through my son.”
+**RAHAB** — “The Lord has provided through my son.”
 
 
 **DANIAL** — “I see that. But what about myself? Do you think I could have the chance to provide for you?”
 
 
-**REHAB** — “Danial, are your proposing?”
+**RAHAB** — “Danial, are your proposing?”
 
 
 **DANIEL** — “I am!”
 
 
-**REHAB** — “Why Daniel! I though you’d never ask!”
+**RAHAB** — “Why Daniel! I though you’d never ask!”
 
 > ⏱ **TIME:** 1:47
 
@@ -1215,7 +1215,7 @@ Glean the wheat and savor the best
 Hold our son so near to our chest  
 Thank our God for giving  
 
-**REHAB**
+**RAHAB**
 
 A new days begun  
 Can you hear the songs that been sung  

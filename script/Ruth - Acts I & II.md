@@ -32,7 +32,7 @@ Waking up to say
 
 **ABIGAIL** — Shalom!
 
-**REHAB** — Shalom!
+**RAHAB** — Shalom!
 
 **ELIMALEK** — Shalom!
 
@@ -162,7 +162,7 @@ I know God blessed me with my Naomi
 
 **JOSH** — Despise the judge!
 
-**REHAB** — Please do be careful!
+**RAHAB** — Please do be careful!
 
 
 *(Ensemble)*  
@@ -174,7 +174,7 @@ Welcome to our home of Bethlehem
 
 **GRANNY** — Good day
 
-**REHAB** — Thank you
+**RAHAB** — Thank you
 
 **ISRAELITE LEADER** — You need a doctor!
 
@@ -192,7 +192,7 @@ Welcome to our home of Bethlehem
 **GRANNY** — Please let me through!
 
 
-**REHAB** — You know
+**RAHAB** — You know
 
 **ELIZABETH** — I see
 
@@ -200,7 +200,7 @@ Welcome to our home of Bethlehem
 
 **NAOMI** — You must
 
-**REHAB** — We all need help dear!
+**RAHAB** — We all need help dear!
 
 
 *(Group Ensemble)*  
@@ -221,7 +221,7 @@ Welcome to our home of Bethlehem
 
 **ABIGAIL** — Shalom!
 
-**REHAB** — Shalom!
+**RAHAB** — Shalom!
 
 **ELIMALEK** — Shalom!
 
@@ -712,7 +712,7 @@ Could there be more to, life, more to life than what I see here?
 **NAOMI** — “Dinner is ready! Quickly, light the candles, the young lady should be here any moment.”
 
 
-**CHILLION** — “Young lady? is she so? Or just another one of your helpless tramps who need a bite to eat and a place to rest?”
+**CHILION** — “Young lady? is she so? Or just another one of your helpless tramps who need a bite to eat and a place to rest?”
 
 
 **NAOMI** — “Chillion, you must never use the word just before you describe a human being. And no my son, it is not just another helpless tramp, it is a lovely young lady. And she…” Knock at the door. “That must be her! Quickly Mahlon!”
@@ -771,7 +771,7 @@ Strangers, they were merely strangers
 **RUTH** — “Oh? Well then tell me! What must I know about your people?”
 
 
-**CHILLION** — “No we can’t simply just tell, there’s thousands of years of history. Stories of how our God has delivered us time and time again!”
+**CHILION** — “No we can’t simply just tell, there’s thousands of years of history. Stories of how our God has delivered us time and time again!”
 
 
 **RUTH** — “Oh really? Then how am I to learn?”
@@ -788,12 +788,12 @@ Strangers, they were merely strangers
 
 **NAOMI** — “Here we go.”
 
-**CHILEAN** — “Of-course”
+**CHILION** — “Of-course”
 
 
 **MAHLON** — Can we eat some Pork?
 
-**CHILEAN** — No
+**CHILION** — No
 
 Work on a Sunday?  
 No  
@@ -805,7 +805,7 @@ To the other gods?
 No  
 What about the one?  
 Oh,  
-**MAHLON & CHILEAN** — You think you’re getting this?
+**MAHLON & CHILION** — You think you’re getting this?
 
 Well we have just begun!  
 
@@ -832,7 +832,7 @@ Yes!
 **MAHLON & CHILEAN** — Good, you’ll learn our!
 
 
-**MAHLON (CHILEAN)**
+**MAHLON (CHILION)**
 
 Love others as yourself (think of them, not yourself)  
 **RUTH** — Oh?
@@ -848,17 +848,17 @@ Yes!
 Be clear to thank our Lord (Because He, is our God)  
 Yes!  
 
-**MAHLON & CHILEAN**
+**MAHLON & CHILION**
 
 And you will learn our way  
 
 **RUTH** — Am I learning quick?
 
-**MAHLON & CHILEAN** — Well maybe
+**MAHLON & CHILION** — Well maybe
 
 **RUTH** — What is the next bit?
 
-**MAHLON & CHILEAN** — Well just wait.
+**MAHLON & CHILION** — Well just wait.
 
 
 **MAHLON** — “You will learn you need to know, don’t worry”
@@ -866,7 +866,7 @@ And you will learn our way
 
 **MAHLON** — But, it will take time
 
-**CHILEAN** — It will take time
+**CHILION** — It will take time
 
 **MAHLON** — It may take time
 
@@ -901,7 +901,7 @@ to learn all that is there to know!
 **RUTH** — “Shalom then.”
 
 
-**CHILEAN** — “Shalom”
+**CHILION** — “Shalom”
 
 
 **MAHLON** — “Shalom.”
@@ -1010,7 +1010,7 @@ God do you plan to maybe, use me
 **NAOMI** — “Indeed! Now Mahlon and Chilean you must go to the market, sell our crop, make a good trade on it!”
 
 
-**CHILEAN** — “Don’t worry! We won’t sell it for anything less than the best price!”
+**CHILION** — “Don’t worry! We won’t sell it for anything less than the best price!”
 
 
 **ORPAH** — “Be safe my husband!”
@@ -1028,19 +1028,19 @@ God do you plan to maybe, use me
 *— END OF SONG —*
 
 
-**CHILEAN** — “Brother did you ever imagine?”
+**CHILION** — “Brother did you ever imagine?”
 
 
 **MAHLON** — “Imagine what?”
 
 
-**CHILEAN** — “That we could find such amazing young ladies here in Moab of all places.”
+**CHILION** — “That we could find such amazing young ladies here in Moab of all places.”
 
 
 **MAHLON** — “You know very well I haven’t.”
 
 
-**CHILEAN** — “I know, I just like to talk about it.”
+**CHILION** — “I know, I just like to talk about it.”
 
 
 **MOAB THUG** — “Talk about what Hebrew?” Multiple thugs enter the stage.
@@ -1071,7 +1071,7 @@ God do you plan to maybe, use me
 **MOAB THUG** — “They say king Eglon was so large, that the knife used was swallowed by the fat of his stomach. Tell me! Would your stomach do the same thing?”
 
 
-**CHILEAN** — “Mahlon!”
+**CHILION** — “Mahlon!”
 
 
 **MAHLON** — “You will let us pass!”
@@ -1084,7 +1084,7 @@ God do you plan to maybe, use me
 
 *A thug grabs Mahlon by the shoulder and lays a blow to his face. Chilean pulls a knife to help aid, but is hit in the head with log, falling over, dead. Mahlon lays a blow, but is stabbed from behind.*
 
-**CHILEAN** — “Brother!”
+**CHILION** — “Brother!”
 
 > ⏱ **TIME:** 1:18
 
@@ -1121,18 +1121,18 @@ The Flash Back—PART FIVE
 
 *Scene opens with Naomi standing center stage, little Mahlon and Chilean come running into the scene, followed by Elimalek.*
 
-**LITTLE MAHLON & CHILEAN** — “Catch us father! Catch us!”
+**LITTLE MAHLON & CHILION** — “Catch us father! Catch us!”
 
 **ELIMALEK** — “Ahhh! I’ll get you both!” Chasing them across the stage, grabbing and tickling them. “Alright, alright, that’s enough for one day. Come sit near your father. I have an important lesson to teach you both.”
 
 
-**LITTLE** — Mahlon—“What’s that father?”
+**LITTLE MAHLON** — “What’s that father?”
 
 
 **ELIMALEK** — “Its the lesson to trust Yeshuah no matter what the circumstances may arise. To look to God in our toughest times.”
 
 
-**LITTLE CHILEAN** — “How tough?”
+**LITTLE CHILION** — “How tough?”
 
 
 **ELIMALEK** — “Oh the toughest!”
@@ -1165,7 +1165,7 @@ Race my sons, have good fun
 Trust in God no matter the day  
 Never to stray, from our God above  
 
-**ELIMNALEK**
+**ELIMALEK**
 
 God He’s never, very far  
 Always nearest, where you are  
