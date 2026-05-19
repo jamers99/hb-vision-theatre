@@ -152,7 +152,7 @@ I know God blessed me with my Naomi
 
 **ELIZABETH** — I need more time!
 
-**JOHNATHAN** — You must pay here now!
+**JONATHAN** — You must pay here now!
 
 
 **LEWIS** — Please buy this bread

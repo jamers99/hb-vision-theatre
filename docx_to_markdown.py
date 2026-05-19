@@ -62,12 +62,12 @@ import re
 # Character names in your show.  Add every speaking role.
 # This prevents short song titles (e.g. "Shalom") being misread as char names.
 KNOWN_CHARS = {
-    'Narrator', 'NARRATOR',
-    'Naomi', 'Ruth', 'Elimalek', 'Elimnalek',
-    'Mahlon', 'Chilean', 'Chilion',
-    'Hannah', 'Abigail', 'Elizabeth', 'Rehab', 'Rahab',
+    'Narrator',
+    'Naomi', 'Ruth', 'Elimalek',
+    'Mahlon', 'Chilion',
+    'Hannah', 'Abigail', 'Elizabeth', 'Rahab',
     'Granny', 'Josh', 'Israelite Leader', 'Zechariah',
-    'Lewis', 'Johnathan', 'Danial',
+    'Lewis', 'Jonathan', 'Danial',
     'Boaz', 'Nathan', 'Eliza', 'Mary',
     'Nathan & Eliza',
 }
@@ -514,6 +514,4 @@ def convert(input_path, output_path, doc_title, start_active=False):
 
 if __name__ == '__main__':
     for input_path, output_path, title, start_active in CONVERSIONS:
-        convert(input_path, output_path, title, start_active)
-itle, start_active in CONVERSIONS:
         convert(input_path, output_path, title, start_active)
