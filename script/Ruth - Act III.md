@@ -1,5 +1,9 @@
 # Ruth the Musical — Act III
 
+> 🎤 **ACT III HOT (all 11):** CH01 NARR · CH02 NAOMI · CH03 LEWIS(Derek S.) · CH04 RUTH · CH05 BOAZ · CH06 RAHAB · CH07 DANIEL(Greg) · CH08 ELIZA · CH09 ELIZ · CH10 ABIGAIL · CH11 ISRAELITE(Alan)
+>
+> **No pack:** Jenny — Ashley · Hannah — Emily *(both project into nearby open mics)*
+
 ## RUTH ACT TWO—RETURNING HOME
 
 > 🎵 **MUSIC:** Someone Loves Us
@@ -808,6 +812,8 @@ Ruth sleeps at the threshing floor that night, once early morning comes, while i
 > 🔊 **SOUND:** Grasshoppers fade
 
 Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, knowing that Boaz is hurriedly making the proper preparations for their hopeful marriage.  
+
+> 🎤 **MIC:** Lewis (Derek S., CH03) entering — same pack as Elimalek all show.
 
 ## ACT SEVEN—THE ACCORD
 
