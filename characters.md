@@ -14,6 +14,7 @@
 | Orpah | Kaley Shirk |
 | Israelite Leader | Alan Miller |
 | Lewis | Derek Stoltzfus |
+| James | Derek Esh |
 | Daniel | Greg Stoltzfoos |
 | Moabite Prince | Greg Stoltzfoos |
 | Moab Thug (Lead) | Greg Stoltzfoos |

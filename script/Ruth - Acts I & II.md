@@ -155,7 +155,7 @@ I know God blessed me with my Naomi
 **JONATHAN** — You must pay here now!
 
 
-**LEWIS** — Please buy this bread
+**JAMES** — Please buy this bread
 
 **ABIGAIL** — It think its stale
 
@@ -179,11 +179,11 @@ Welcome to our home of Bethlehem
 **ISRAELITE LEADER** — You need a doctor!
 
 
-**DANIAL** — Please catch
+**JOSH** — Please catch
 
 **ABIGAIL** — Oh dear
 
-**DANIAL** — My goat
+**JOSH** — My goat
 
 **ELIZABETH** — Hurry!
 

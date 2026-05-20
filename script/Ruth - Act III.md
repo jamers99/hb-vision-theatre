@@ -334,13 +334,13 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *The gleaners move to a seperate spot to eat.*
 
-**BOAZ** — “Danial? Who’s young women is this?”
+**BOAZ** — “Daniel? Who’s young women is this?”
 
 
-**DANIAL** — “Ruth? She is Naomi’s daughter-in-law, now widow, who came back with Naomi from the country of Moab. She has been here since early this morning working, taking only a brief rest. Truth be told, she has committed herself to following our God, ‘Your people shall be my people, and your God, my God’, I believe is the line she used.”
+**DANIEL** — “Ruth? She is Naomi’s daughter-in-law, now widow, who came back with Naomi from the country of Moab. She has been here since early this morning working, taking only a brief rest. Truth be told, she has committed herself to following our God, ‘Your people shall be my people, and your God, my God’, I believe is the line she used.”
 
 
-**BOAZ** — “What a lovely and graceful women. I must… pardon me Danial.”
+**BOAZ** — “What a lovely and graceful women. I must… pardon me Daniel.”
 
 
 **BOAZ** — “Young lady, I have not seen you here before… What is your name?”
@@ -545,28 +545,28 @@ Love is in the air
 
 *Boaz leaves the stage at music spot of (2:10).*
 
-**RAHAB** — “Danial! Danial! Come quick!”
+**RAHAB** — “Daniel! Daniel! Come quick!”
 
 
-**DANIAL** — “Yes Rahab, what is it?”
+**DANIEL** — “Yes Rahab, what is it?”
 
 
 **RAHAB** — “Boaz has a new instruction! Listen, the gleaners are to glean the wheat, allowing Ruth the Moabite, to glean amidst them!”
 
 
-**DANIAL** — “Glean amidst the workers? Isn’t that a little odd?”
+**DANIEL** — “Glean amidst the workers? Isn’t that a little odd?”
 
 
 **RAHAB** — “You think that’s odd! Wait till you hear the rest. She is to drink from their water, join Boaz, my son! for lunch, and the gleaners are to purposely, though with discretion, drop bundles of wheat where specifically Ruth can collect them.”
 
 
-**DANIAL** — “Specifically Ruth?”
+**DANIEL** — “Specifically Ruth?”
 
 
 **RAHAB** — “Specifically”
 
 
-**DANIAL** — “The rumors are true then! I’ll ensure they do it with the greatest discretion! This is wonderful news!”
+**DANIEL** — “The rumors are true then! I’ll ensure they do it with the greatest discretion! This is wonderful news!”
 
 
 **RAHAB** — “Now go, let us not waist another moment.”
@@ -946,7 +946,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 “This next scene happens as follows”  
 
-**NARRATOR, RAHAB, (DANIAL)**
+**NARRATOR, RAHAB, (DANIEL)**
 
 Boaz does, go on one knee (on one knee)  
 He does ask, if she would be (Ruth would be)  
@@ -1088,7 +1088,7 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 > 🎵 **MUSIC:** Unzer Nigun Our Melody
 
-**RAHAB (DANIAL)**
+**RAHAB (DANIEL)**
 
 “Boaz and Ruth this is for you”  
 
@@ -1153,22 +1153,22 @@ I know our God has given us this special skill
 *Everyone Dances.*
 > ⏱ **TIME:** 1:20
 
-**DANIAL** — “Rehab, you look awfully nice this evening.”
+**DANIEL** — “Rehab, you look awfully nice this evening.”
 
 
-**RAHAB** — “Thank you Danial.”
+**RAHAB** — “Thank you Daniel.”
 
 
-**DANIAL** — “How do you get on since the death of your first husband?”
+**DANIEL** — “How do you get on since the death of your first husband?”
 
 
 **RAHAB** — “The Lord has provided through my son.”
 
 
-**DANIAL** — “I see that. But what about myself? Do you think I could have the chance to provide for you?”
+**DANIEL** — “I see that. But what about myself? Do you think I could have the chance to provide for you?”
 
 
-**RAHAB** — “Danial, are your proposing?”
+**RAHAB** — “Daniel, are your proposing?”
 
 
 **DANIEL** — “I am!”
