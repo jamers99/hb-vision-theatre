@@ -4,7 +4,7 @@
 >
 > **No pack:** Jenny — Ashley · Hannah — Emily *(both project into nearby open mics)*
 
-## RUTH ACT TWO—RETURNING HOME
+## Returning Home—PART ONE 
 
 > 🎵 **MUSIC:** Someone Loves Us
 
@@ -171,7 +171,8 @@
 **RUTH** — “I hope so.”
 
 
-BETHLEHEMS GOSSIP  
+## Bethlehem’s Gossip—PART TWO 
+
 *The scene changes focus to Elizabeth walking to Abigails home.*
 
 ### 🎵 Gossip Is Sin!
@@ -280,7 +281,8 @@ Gossip is sin, I hate it the most”
 
 **ELIZABETH** — “Strengthen yourself, we mustn’t allow our emotions to get the better of us.”
 
-RUTH & BOAZ  
+## Ruth & Boaz—PART THREE
+
 > 🎵 **MUSIC:** End of An Era
 
 **NARRATOR**
@@ -610,7 +612,8 @@ Love is in the air
 
 *— END OF SONG —*
 
-NAOMI’s plan  
+## Naomi’s Plan—PART FIVE
+
 > 🎵 **MUSIC:** Miss Potter
 
 **NARRATOR**
@@ -774,7 +777,7 @@ I think I maybe, just maybe, falling too
 
 > 💡 **LIGHTS:** Lights fade out
 
-## ACT SIX—THE THRESHING FLOOR
+## The Threshing Floor—PART SIX 
 
 > 🔊 **SOUND:** Grass Hoppers
 
@@ -815,7 +818,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 > 🎤 **MIC:** Lewis (Derek S., CH03) entering — same pack as Elimalek all show.
 
-## ACT SEVEN—THE ACCORD
+## The Accord—PART SEVEN
 
 *Scene opens with Boaz and ten village leaders collected together to witness the transaction.*
 
@@ -967,7 +970,7 @@ He does cry, with Jubilee! (Oh yipeee!)
 They both hug with joy that they will get married  
 > 💡 **LIGHTS:** Lights Go black
 
-Rumors  
+## Rumors—PART EIGHT 
 
 ### 🎵 Rumors
 
@@ -1070,7 +1073,8 @@ I wonder could it be, they marry!?
 
 > 💡 **LIGHTS:** Go black
 
-THE WEDDING  
+## The Wedding—PART NINE
+
 > 🎵 **MUSIC:** You Must Sample This Tart
 
 **NARRATOR**
@@ -1186,7 +1190,8 @@ I know our God has given us this special skill
 
 *Everyone Dances.*
 
-THE FINAL SCENE  
+## THE END—PART TEN
+
 > 🎵 **MUSIC:** I Do Nothing Every Day
 
 **NARRATOR**

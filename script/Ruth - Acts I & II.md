@@ -1427,7 +1427,7 @@ Everything worth living for is there in God’s plan
 
 ---
 
-## ❖ INTERMISSION
+# ❖ INTERMISSION
 
 > 🎤 **PACK SWAPS — intermission (packs only, headsets stay on):**
 > - CH03: Derek Stoltzfus → *(stays on Derek — Lewis in Act III, no swap needed)*
