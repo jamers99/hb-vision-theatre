@@ -10,10 +10,11 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 
 | Skip headset | Reason |
 |---|---|
-| Ashley Martin (Jenny) | 1 line in Act III gleaning scene — pit mic fine |
-| Canon Beiler (Chilion Child) | Gets Chrit's headset at the Act I → II blackout (see Swap Events) |
+| Chrit Glick as **Jonathan** | headset starts with Canon pre-show; projects into nearby open mic (1 line, Act I only) |
+| Ashley Martin (Jenny) | No pack — projects into nearby open mic (1 line, Act III only) |
+| Derek Esh (James) | No pack — projects into nearby open mic (1 line, Act I only) |
 
-**Fit headsets on all other 16 actors before the show,** including Ben Yoder (Mahlon Child).
+**Fit headsets on all other 16 actors before the show,** including Ben Yoder and Canon Beiler.
 
 ---
 
@@ -38,7 +39,7 @@ CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH05 BOAZ(Jonathan) �
 
 ### Channel notes
 - **CH04 (RUTH):** Alan Miller holds this pack in Act I. The fader is labelled RUTH — remember Alan is on it until the blackout swap.
-- **CH05 (BOAZ):** Pack on Chrit all show — hot as Jonathan (Act I), muted/headsetless in Act II (headset lent to Canon), back as Boaz (Act III). Pack never moves.
+- **CH05 (BOAZ):** Chrit gives headset to Canon pre-show and has no pack in Act I (Jonathan projects). Muted and idle in Act II. At intermission Canon returns the headset and Chrit gets his pack — hot as Boaz for Act III.
 - **CH06 (RAHAB) / CH08 (GRANNY):** Swap actors at both the Act I→II blackout and the Act II death scene blackout.
 - **CH11 (SWING):** Moves through 3 actors — Emily (Act I) → Kaley (Act II) → Alan (Act III).
 
@@ -59,14 +60,8 @@ Trigger: Lights go black after "God Provides" (Elimalek's death song)
 | CH08 GRANNY | Alea Glick | Joshua Harrison |
 | CH11 SWING | Emily Shirk | Kaley Shirk |
 
-**1 headset swap:**
-
-| Headset | From | To |
-|---|---|---|
-| CH05 headset | Chrit Glick *(removes his headset)* | Canon Beiler *(now headset fitted)* |
-
 **Board actions:**
-- Mute CH05 (Chrit headsetless, idle in Act II)
+- Mute CH05 (Chrit idle in Act II)
 - Mute CH09 (Olivia idle in Act II)
 - Mute CH10 (Hannah F. idle in Act II)
 
@@ -113,8 +108,10 @@ Ben and Canon now have headsets + packs for the flashback scene. After the flash
 
 ## Act-by-Act Summary
 
-### Act I — hot channels (all 11)
-CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH05 BOAZ(Jonathan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
+### Act I — hot channels (10 of 11)
+CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
+
+CH05 — no pack (Jonathan projects)
 
 ### Act II — hot channels (8 of 11)
 CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH · CH06 MAHLON · CH07 GREG · CH08 CHILION · CH11 ORPAH
@@ -139,7 +136,7 @@ No pack: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby ope
 | Derek Stoltzfus | Elimalek, Lewis | CH03 ELIM — full show |
 | Elsie Weldon | Ruth | CH04 RUTH — Act II onward |
 | Alan Miller | Israelite Leader | CH04 RUTH Act I · CH11 SWING Act III |
-| Chrit Glick | Jonathan, Boaz | CH05 BOAZ — pack all show; headset lent to Canon during Act II |
+| Chrit Glick | Jonathan, Boaz | CH05 BOAZ — no pack Act I (projects), headset with Canon until intermission; pack + headset Act III |
 | Zoe Yoder | Rahab | CH06 RAHAB — Act I & III |
 | Jamian Esh | Mahlon (Adult) | CH06 RAHAB — Act II (until death scene) |
 | Ben Yoder | Mahlon (Child) | CH06 RAHAB — flashback only |
@@ -149,7 +146,7 @@ No pack: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby ope
 | Canon Beiler | Chilion (Child) | CH08 GRANNY — flashback only; borrows Chrit's headset |
 | Olivia Yoder | Elizabeth | CH09 ELIZ — Act I & III |
 | Hannah Flaud | Abigail | CH10 ABIGAIL — Act I & III |
-| Emily Shirk | Hannah | CH11 SWING — Act I only |
+| Emily Shirk | Hannah | CH11 SWING — Act I only; projects into nearby open mic in Act III |
 | Kaley Shirk | Orpah | CH11 SWING — Act II only |
 | Ashley Martin | Jenny | no pack — projects into nearby actor's open headset |
 | Derek Esh | James | no pack — projects into nearby actor's open headset *(Act I only, 1 line)* |
