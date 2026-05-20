@@ -11,8 +11,8 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 | Skip headset | Reason |
 |---|---|
 | Chrit Glick as **Jonathan** | headset starts with Canon pre-show; projects into nearby open mic (1 line, Act I only) |
-| Ashley Martin (Jenny) | No pack — projects into nearby open mic (1 line, Act III only) |
-| Derek Esh (James) | No pack — projects into nearby open mic (1 line, Act I only) |
+| Ashley Martin (Jenny) | No headset — projects into nearby open mic (1 line, Act III only) |
+| Derek Esh (James) | No headset — projects into nearby open mic (1 line, Act I only) |
 
 **Fit headsets on all other 16 actors before the show,** including Ben Yoder and Canon Beiler.
 
@@ -26,7 +26,7 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 | CH02 | NAOMI | Naomi | Naomi | Naomi |
 | CH03 | ELIM | Elimalek — Derek | Elimalek *(flashback only)* | Lewis — Derek |
 | CH04 | RUTH | Israelite Leader — Alan → *swap at blackout* | **Ruth — Elsie** | Ruth |
-| CH05 | BOAZ | Jonathan — Chrit | *(idle — mute, headset lent to Canon)* | **Boaz — Chrit** |
+| CH05 | BOAZ | *(no headset or pack — Jonathan projects)* | *(idle — mute)* | **Boaz — Chrit** |
 | CH06 | RAHAB | Rahab — Zoe → *swap at blackout* | **Mahlon Adult — Jamian** → *swap at death scene* | Rahab — Zoe |
 | CH07 | GREG | Josh — Greg | Moabite Prince / Thug — Greg | Daniel — Greg |
 | CH08 | GRANNY | Granny — Alea → *swap at blackout* | **Chilion Adult — Joshua H.** → *swap at death scene* | Eliza — Alea |
@@ -34,8 +34,10 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 | CH10 | ABIGAIL | Abigail — Hannah F. | *(idle — mute)* | Abigail — Hannah F. |
 | CH11 | SWING | Hannah — Emily → *swap at blackout* | **Orpah — Kaley** | Israelite Leader — Alan |
 
-### Act I — hot at curtain (all 11)
-CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH05 BOAZ(Jonathan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
+### Act I — hot at curtain (10 of 11)
+CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
+
+CH05 — no headset or pack (Jonathan projects)
 
 ### Channel notes
 - **CH04 (RUTH):** Alan Miller holds this pack in Act I. The fader is labelled RUTH — remember Alan is on it until the blackout swap.
@@ -111,7 +113,7 @@ Ben and Canon now have headsets + packs for the flashback scene. After the flash
 ### Act I — hot channels (10 of 11)
 CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
 
-CH05 — no pack (Jonathan projects)
+CH05 — no headset (Jonathan projects)
 
 ### Act II — hot channels (8 of 11)
 CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH · CH06 MAHLON · CH07 GREG · CH08 CHILION · CH11 ORPAH
@@ -123,7 +125,7 @@ After death scene blackout, CH06 and CH08 move to the child actors for the flash
 ### Act III — hot channels (all 11)
 CH01 NARR · CH02 NAOMI · CH03 LEWIS · CH04 RUTH · CH05 BOAZ · CH06 RAHAB · CH07 DANIEL · CH08 ELIZA · CH09 ELIZ · CH10 ABIGAIL · CH11 ISRAELITE
 
-No pack: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby open headsets
+No headset: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby open headsets
 
 ---
 
@@ -136,7 +138,7 @@ No pack: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby ope
 | Derek Stoltzfus | Elimalek, Lewis | CH03 ELIM — full show |
 | Elsie Weldon | Ruth | CH04 RUTH — Act II onward |
 | Alan Miller | Israelite Leader | CH04 RUTH Act I · CH11 SWING Act III |
-| Chrit Glick | Jonathan, Boaz | CH05 BOAZ — no pack Act I (projects), headset with Canon until intermission; pack + headset Act III |
+| Chrit Glick | Jonathan, Boaz | CH05 BOAZ — no headset Act I (projects), headset with Canon until intermission; pack + headset Act III |
 | Zoe Yoder | Rahab | CH06 RAHAB — Act I & III |
 | Jamian Esh | Mahlon (Adult) | CH06 RAHAB — Act II (until death scene) |
 | Ben Yoder | Mahlon (Child) | CH06 RAHAB — flashback only |
@@ -148,5 +150,5 @@ No pack: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby ope
 | Hannah Flaud | Abigail | CH10 ABIGAIL — Act I & III |
 | Emily Shirk | Hannah | CH11 SWING — Act I only; projects into nearby open mic in Act III |
 | Kaley Shirk | Orpah | CH11 SWING — Act II only |
-| Ashley Martin | Jenny | no pack — projects into nearby actor's open headset |
-| Derek Esh | James | no pack — projects into nearby actor's open headset *(Act I only, 1 line)* |
+| Ashley Martin | Jenny | no headset — projects into nearby actor's open headset |
+| Derek Esh | James | no headset — projects into nearby actor's open headset *(Act I only, 1 line)* |
