@@ -1151,8 +1151,8 @@ And so it is, the lot we find our beloved characters.
 
 > 💡 **LIGHTS:** Go Black
 
-> 🎤 **PACK SWAPS — quick (packs only, headsets already on Ben & Canon):**
-> - CH06: Jamian Esh → Ben Yoder (Mahlon Child)
+> 🎤 **PACK SWAPS — quick (packs only, headsets already on Hudson & Canon):**
+> - CH06: Jamian Esh → Hudson Yoder (Mahlon Child)
 > - CH08: Joshua Harrison → Canon Beiler (Chilion Child)
 
 The Flash Back—PART FIVE  
@@ -1237,7 +1237,7 @@ Our God above
 *— END OF SONG —*
 
 > 🎤 **EARLY SWAPS — do these now while Part 6 plays out (backstage):**
-> - CH06: Ben Yoder → Zoe Yoder (Rahab) — Ben done for show
+> - CH06: Hudson Yoder → Zoe Yoder (Rahab) — Hudson done for show
 > - CH08: Canon Beiler → Alea Glick (Eliza) — Canon done for show
 > - CH05 headset: Canon → Chrit Glick; give Chrit his pack — ready for Act III as Boaz
 >
@@ -1431,7 +1431,7 @@ Everything worth living for is there in God’s plan
 
 > 🎤 **PACK SWAPS — intermission (packs only, headsets stay on):**
 > - CH03: Derek Stoltzfus → *(stays on Derek — Lewis in Act III, no swap needed)*
-> - CH06: Ben Yoder → Zoe Yoder (Rahab)
+> - CH06: Hudson Yoder → Zoe Yoder (Rahab)
 > - CH08: Canon Beiler → Alea Glick (Eliza)
 > - CH11: Kaley Shirk → Alan Miller (Israelite Leader)
 >

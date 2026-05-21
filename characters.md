@@ -9,7 +9,7 @@
 | Granny | Alea Glick |
 | Mahlon (Adult) | Jamian Esh |
 | Chilion (Adult) | Joshua Harrison |
-| Mahlon (Child) | Ben Yoder |
+| Mahlon (Child) | Hudson Yoder |
 | Chilion (Child) | Canon Beiler |
 | Orpah | Kaley Shirk |
 | Israelite Leader | Alan Miller |

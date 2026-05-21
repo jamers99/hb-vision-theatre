@@ -14,7 +14,7 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 | Ashley Martin (Jenny) | No headset — projects into nearby open mic (1 line, Act III only) |
 | Derek Esh (James) | No headset — projects into nearby open mic (1 line, Act I only) |
 
-**Fit headsets on all other 16 actors before the show,** including Ben Yoder and Canon Beiler.
+**Fit headsets on all other 16 actors before the show,** including Hudson Yoder and Canon Beiler.
 
 ---
 
@@ -73,14 +73,14 @@ Trigger: Lights go black after "God Provides" (Elimalek's death song)
 
 Trigger: Lights go black after Mahlon & Chilion are killed (Act II Part 4 → Part 5)
 
-**2 pack swaps only — headsets already fitted on Ben and Canon:**
+**2 pack swaps only — headsets already fitted on Hudson and Canon:**
 
 | Channel | From | To |
 |---|---|---|
-| CH06 RAHAB | Jamian Esh | **Ben Yoder** (Mahlon Child) |
+| CH06 RAHAB | Jamian Esh | **Hudson Yoder** (Mahlon Child) |
 | CH08 GRANNY | Joshua Harrison | **Canon Beiler** (Chilion Child) |
 
-Ben and Canon now have headsets + packs for the flashback scene. After the flashback, packs stay on them until intermission.
+Hudson and Canon now have headsets + packs for the flashback scene. After the flashback, packs stay on them until intermission.
 
 ---
 
@@ -90,7 +90,7 @@ Ben and Canon now have headsets + packs for the flashback scene. After the flash
 
 | Channel | From | To |
 |---|---|---|
-| CH06 RAHAB | Ben Yoder | Zoe Yoder |
+| CH06 RAHAB | Hudson Yoder | Zoe Yoder |
 | CH08 GRANNY | Canon Beiler | Alea Glick |
 | CH11 SWING | Kaley Shirk | Alan Miller |
 
@@ -141,7 +141,7 @@ No headset: Jenny (Ashley) · Hannah (Emily) in Act III — project into nearby 
 | Chrit Glick | Jonathan, Boaz | CH05 BOAZ — no headset Act I (projects), headset with Canon until intermission; pack + headset Act III |
 | Zoe Yoder | Rahab | CH06 RAHAB — Act I & III |
 | Jamian Esh | Mahlon (Adult) | CH06 RAHAB — Act II (until death scene) |
-| Ben Yoder | Mahlon (Child) | CH06 RAHAB — flashback only |
+| Hudson Yoder | Mahlon (Child) | CH06 RAHAB — flashback only |
 | Greg Stoltzfoos | Josh, Moabite Prince, Thug, Daniel | CH07 GREG — full show |
 | Alea Glick | Granny, Eliza | CH08 GRANNY — Act I & III |
 | Joshua Harrison | Chilion (Adult) | CH08 GRANNY — Act II (until death scene) |
