@@ -22,17 +22,17 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 
 | Channel | Label | Act I | Act II | Act III |
 |---|---|---|---|---|
-| CH01 | NARR | Narrator — Bethany | Narrator | Narrator |
-| CH02 | NAOMI | Naomi | Naomi | Naomi |
-| CH03 | ELIM | Elimalek — Derek | Elimalek *(flashback only)* | Lewis — Derek |
 | CH04 | RUTH | Israelite Leader — Alan → *swap at blackout* | **Ruth — Elsie** | Ruth |
-| CH05 | BOAZ | *(no headset or pack — Jonathan projects)* | *(idle — mute)* | **Boaz — Chrit** |
-| CH06 | RAHAB | Rahab — Zoe → *swap at blackout* | **Mahlon Adult — Jamian** → *swap at death scene* | Rahab — Zoe |
-| CH07 | GREG | Josh — Greg | Moabite Prince / Thug — Greg | Daniel — Greg |
-| CH08 | GRANNY | Granny — Alea → *swap at blackout* | **Chilion Adult — Joshua H.** → *swap at death scene* | Eliza — Alea |
-| CH09 | ELIZ | Elizabeth — Olivia | *(idle — mute)* | Elizabeth — Olivia |
-| CH10 | ABIGAIL | Abigail — Hannah F. | *(idle — mute)* | Abigail — Hannah F. |
-| CH11 | SWING | Hannah — Emily → *swap at blackout* | **Orpah — Kaley** | Israelite Leader — Alan |
+| CH06 | NARR | Narrator — Bethany | Narrator | Narrator |
+| CH07 | NAOMI | Naomi | Naomi | Naomi |
+| CH09 | ELIM | Elimalek — Derek | Elimalek *(flashback only)* | Lewis — Derek |
+| CH10 | BOAZ | *(no headset or pack — Jonathan projects)* | *(idle — mute)* | **Boaz — Chrit** |
+| CH11 | RAHAB | Rahab — Zoe → *swap at blackout* | **Mahlon Adult — Jamian** → *swap at death scene* | Rahab — Zoe |
+| CH12 | ELIZ | Elizabeth — Olivia | *(idle — mute)* | Elizabeth — Olivia |
+| CH13 | GREG | Josh — Greg | Moabite Prince / Thug — Greg | Daniel — Greg |
+| CH14 | GRAN | Granny — Alea → *swap at blackout* | **Chilion Adult — Joshua H.** → *swap at death scene* | Eliza — Alea |
+| CH15 | ABY | Abigail — Hannah F. | *(idle — mute)* | Abigail — Hannah F. |
+| CH16 | SWING | Hannah — Emily → *swap at blackout* | **Orpah — Kaley** | Israelite Leader — Alan |
 
 ### Act I — hot at curtain (10 of 11)
 CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
