@@ -32,7 +32,7 @@ We have 18 actors and 16 headsets — fit headsets on everyone **except**:
 | CH13 | GREG | Josh — Greg | Moabite Prince / Thug — Greg | Daniel — Greg |
 | CH14 | GRAN | Granny — Alea → *swap at blackout* | **Chilion Adult — Joshua H.** → *swap at death scene* | Eliza — Alea |
 | CH15 | ABY | Abigail — Hannah F. | *(idle — mute)* | Abigail — Hannah F. |
-| CH16 | SWING | Hannah — Emily → *swap at blackout* | **Orpah — Kaley** | Israelite Leader — Alan |
+| CH16 | SWING | Hannah — Emily → *swap at blackout* | **Orpah — Kaley** | Emily (Parts 1–6, 8) ↔ Alan (Part 7 only); Alan projects Part 9 |
 
 ### Act I — hot at curtain (10 of 11)
 CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH(Alan) · CH06 RAHAB · CH07 GREG · CH08 GRANNY · CH09 ELIZ · CH10 ABIGAIL · CH11 SWING(Emily)
@@ -43,7 +43,7 @@ CH05 — no headset or pack (Jonathan projects)
 - **CH04 (RUTH):** Alan Miller holds this pack in Act I. The fader is labelled RUTH — remember Alan is on it until the blackout swap.
 - **CH05 (BOAZ):** Chrit gives headset to Canon pre-show and has no pack in Act I (Jonathan projects). Muted and idle in Act II. At intermission Canon returns the headset and Chrit gets his pack — hot as Boaz for Act III.
 - **CH06 (RAHAB) / CH08 (GRANNY):** Swap actors at both the Act I→II blackout and the Act II death scene blackout.
-- **CH11 (SWING):** Moves through 3 actors — Emily (Act I) → Kaley (Act II) → Alan (Act III).
+- **CH11 (SWING):** Moves through 4 actors — Emily (Act I) → Kaley (Act II) → Emily (Act III Parts 1–6 & 8) ↔ Alan (Part 7 only; projects Part 9). Two mid-act swaps in Act III — see swap events below.
 
 ---
 
@@ -92,7 +92,7 @@ Hudson and Canon now have headsets + packs for the flashback scene. After the fl
 |---|---|---|
 | CH06 RAHAB | Hudson Yoder | Zoe Yoder |
 | CH08 GRANNY | Canon Beiler | Alea Glick |
-| CH11 SWING | Kaley Shirk | Alan Miller |
+| CH11 SWING | Kaley Shirk | Emily Shirk |
 
 **1 headset swap:**
 

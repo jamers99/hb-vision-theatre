@@ -77,14 +77,14 @@ KNOWN_CHARS = {
 # start_active=False → file has an act header that triggers content processing.
 CONVERSIONS = [
     (
-        'RUTH FIRST DRAFT (FIRST & SECOND ACT).docx',
-        'Ruth - Acts I & II.md',
-        'Ruth the Musical — Acts I & II',
+        'script/RUTH FIRST DRAFT (FIRST & SECOND ACT).docx',
+        'script/Ruth - Act I & II.md',
+        'Ruth the Musical — Act I & II',
         False,
     ),
     (
-        'RUTH FIRST DRAFT (THIRD ACT).docx',
-        'Ruth - Act III.md',
+        'script/RUTH FIRST DRAFT (THIRD ACT).docx',
+        'script/Ruth - Act III.md',
         'Ruth the Musical — Act III',
         True,   # This file has no "Third Act" plain-text marker
     ),
@@ -434,7 +434,7 @@ def convert(input_path, output_path, doc_title, start_active=False):
                 lines.append('')
             elif kind == 'intermission':
                 ensure_blank()
-                lines += ['---', '', '## ❖ INTERMISSION', '', '---', '']
+                lines += ['---', '', '# ❖ INTERMISSION', '', '---', '']
             elif kind == 'ensemble':
                 ensure_blank_after_cue()
                 lines.append(fmt_ensemble(text) + '  ')  # hard line break before lyrics
