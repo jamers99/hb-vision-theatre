@@ -21,6 +21,7 @@
 | Elizabeth | Olivia Yoder |
 | Abigail | Hannah Flaud |
 | Eliza | Alea Glick |
+| Delilah | Kaley Shirk |
 | Hannah | Emily Shirk |
 | Josh | Greg Stoltzfoos |
 | Jonathan | Chrit Glick |
