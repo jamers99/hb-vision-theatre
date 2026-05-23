@@ -11,8 +11,8 @@
 | Granny | Alea Glick |
 | Mahlon (Adult) | Jamian Esh |
 | Chilion (Adult) | Joshua Harrison |
-| Mahlon (Child) | Hudson Yoder |
-| Chilion (Child) | Canon Beiler |
+| Little Mahlon | Hudson Yoder |
+| Little Chilion | Canon Beiler |
 | Orpah | Kaley Shirk |
 | Israelite Leader | Alan Miller |
 | Lewis | Derek Stoltzfus |
@@ -37,7 +37,7 @@
 | Alea Glick | Granny, Eliza |
 | Ashley Martin | Jenny |
 | Bethany Miller | Narrator |
-| Canon Beiler | Chilion (Child) |
+| Canon Beiler | Little Chilion |
 | Chrit Glick | Boaz, Jonathan |
 | Derek Esh | James |
 | Derek Stoltzfus | Elimalek, Lewis |
@@ -45,7 +45,7 @@
 | Emily Shirk | Hannah |
 | Greg Stoltzfoos | Daniel, Moabite Prince, Moab Thug (Lead), Josh |
 | Hannah Flaud | Abigail |
-| Hudson Yoder | Mahlon (Child) |
+| Hudson Yoder | Little Mahlon |
 | Jamian Esh | Mahlon (Adult) |
 | Joshua Harrison | Chilion (Adult) |
 | Kaley Shirk | Orpah, Delilah |

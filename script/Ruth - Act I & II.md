@@ -2,29 +2,23 @@
 
 ---
 
-> 🎤 **MIC SETUP — see mic-notes.md for full detail**
+> 🎤 **MIC Overview**
 >
-> **Pre-show:** Fit headsets on 16 actors — skip Chrit Glick, Ashley Martin, and Derek Esh. Canon Beiler gets a headset pre-show and returns it to Chrit at intermission. Ashley and Derek Esh project into nearby open mics.
+> todo need pack & headset curtain assignments
 >
-> | Ch | Label | Act I | Act II | Act III |
-> |---|---|---|---|---|
-> | CH01 | NARR | Narrator — Bethany | Narrator | Narrator |
-> | CH02 | NAOMI | Naomi | Naomi | Naomi |
-> | CH03 | ELIM | Elimalek — Derek S. | Elimalek *(flashback)* | Lewis — Derek S. |
-> | CH04 | RUTH | Israelite Leader — Alan | **Ruth — Elsie** | Ruth |
-> | CH05 | BOAZ | *(no pack — Jonathan projects)* | *(mute)* | **Boaz — Chrit** |
-> | CH06 | RAHAB | Rahab — Zoe | **Mahlon Adult — Jamian** → kids | Rahab — Zoe |
-> | CH07 | GREG | Josh — Greg | Moabite Prince/Thug — Greg | Daniel — Greg |
-> | CH08 | GRANNY | Granny — Alea | **Chilion Adult — Joshua H.** → kids | Eliza — Alea |
-> | CH09 | ELIZ | Elizabeth — Olivia | *(mute)* | Elizabeth — Olivia |
-> | CH10 | ABIGAIL | Abigail — Hannah F. | *(mute)* | Abigail — Hannah F. |
-> | CH11 | SWING | Hannah — Emily | **Orpah — Kaley** | Israelite Leader — Alan |
+> TODO - House Music doors open
+>
+> TODO - put in notes about who has packs in the ensemble to help push choir
+>
+> TODO - charge devices (phone & laptop)
+>
+> TODO - fresh pack batteries
+>
+> TODO - set up walkie talkies for backstage communication
 
 ---
 
-# ACT ONE
-
-The Famine  
+# ACT ONE—The Famine  
 
 ## SHALOM—PART ONE
 
@@ -171,7 +165,7 @@ I know God blessed me with my Naomi
 
 **ELIZABETH** — I need more time!
 
-**JONATHAN** — You must pay here now! *(projects into nearby mic — no headset)*
+**JONATHAN** — You must pay here now!
 
 
 **JAMES** — Please buy this bread *(projects into nearby mic — no headset)*
@@ -249,12 +243,12 @@ Welcome to our home of Bethlehem
 
 *— END OF SONG —*
 
-> 🎤 **EARLY PACK SWAPS — do these now, no rush (backstage):**
-> - CH04: Alan Miller → Elsie Weldon (Ruth) — Alan is done for Act I
-> - CH06: Zoe Yoder → Jamian Esh (Mahlon Adult) — Zoe is done for Act I
-> - CH11: Emily Shirk → Kaley Shirk (Orpah) — Emily is done for Act I
->
-> *(CH08 Granny/Alea still needed — swap after her farewell scene in Part 3)*
+> 🎤 **MIC:** SWAP 🔀
+> - CH04 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
+> - CH11 RAHAB: Zoe Yoder (Rahab) → Jamian Esh (Mahlon Adult)
+> - CH15 ABY: Hannah Flaud (Abigail) → Hudson Yoder (Little Mahlon)
+> - CH16 SWING: Emily Shirk (Hannah) → Kaley Shirk (Orpah)
+> - CH10 BOAZ & **HEADSET**: Chrit Glick (Jonathan) → Canon Beiler (Little Chilion)
 
 *Everyone breaks out in village commotion, speaking to one another making for a lively town scene. The scene then focuses on Naomi, Elimalek, and Granny at home, at a set dinner table.*
 
@@ -428,9 +422,6 @@ A home they can live in, despite the despair
 
 **ELIMALEK** — “Goodbye mother.”
 
-
-> 🎤 **MIC:** Granny (Alea, CH08) — last scene. After this, only Naomi + Elimalek on stage. Prepare for blackout swaps.
-
 ## Leaving Bethlehem—PART THREE
 
 (15 minuets into the drama)  
@@ -503,6 +494,9 @@ I’ll bless my homeland, till I die.
 
 *— END OF SONG —*
 
+
+> 🎤 **MIC:** SWAP 🔀
+> - CH14 GRAN: Alea Glick (Granny) → Joshua Harrison (Chilion Adult)
 
 ## The Death of Elimalek—PART FOUR
 
@@ -600,27 +594,15 @@ God please grant me just another dawn
 
 > 💡 **LIGHTS:** Go black
 
-> 🎤 **PACK SWAPS — quick, be ready in wings (packs only, headsets stay on):**
-> - CH04: Alan Miller → Elsie Weldon (Ruth)
-> - CH06: Zoe Yoder → Jamian Esh (Mahlon Adult)
-> - CH08: Alea Glick → Joshua Harrison (Chilion Adult)
-> - CH11: Emily Shirk → Kaley Shirk (Orpah)
->
-> 🎤 **BOARD: Mute CH05, CH09, CH10**
-
 (25 minuets into the drama)  
 
 ---
 
-# ACT TWO
-
-> 🎤 **ACT II HOT (8 of 11):** CH01 NARR · CH02 NAOMI · CH03 ELIM · CH04 RUTH · CH06 MAHLON · CH07 GREG · CH08 CHILION · CH11 ORPAH — CH05/09/10 muted
-
-MOAB  
+# ACT TWO—MOAB  
 
 ## RUTH—PART ONE
 
-### 🎵 MOAD
+### 🎵 MOAB
 
 *Scene opens with lights out, and then there is a grand opening, when all the Moabites enter stage (maybe with an elephant?).*
 
@@ -1151,18 +1133,14 @@ And so it is, the lot we find our beloved characters.
 
 > 💡 **LIGHTS:** Go Black
 
-> 🎤 **PACK SWAPS — quick (packs only, headsets already on Hudson & Canon):**
-> - CH06: Jamian Esh → Hudson Yoder (Mahlon Child)
-> - CH08: Joshua Harrison → Canon Beiler (Chilion Child)
-
-The Flash Back—PART FIVE  
+## The Flash Back—PART FIVE  
 > 🎵 **MUSIC:** Jesen
 >
 > 💡 **LIGHTS:** Fade On
 
 *Scene opens with Naomi standing center stage, little Mahlon and Chilean come running into the scene, followed by Elimalek.*
 
-**LITTLE MAHLON & CHILION** — “Catch us father! Catch us!”
+**LITTLE MAHLON & LITTLE CHILION** — “Catch us father! Catch us!”
 
 **ELIMALEK** — “Ahhh! I’ll get you both!” Chasing them across the stage, grabbing and tickling them. “Alright, alright, that’s enough for one day. Come sit near your father. I have an important lesson to teach you both.”
 
@@ -1236,12 +1214,10 @@ Our God above
 
 *— END OF SONG —*
 
-> 🎤 **EARLY SWAPS — do these now while Part 6 plays out (backstage):**
-> - CH06: Hudson Yoder → Zoe Yoder (Rahab) — Hudson done for show
-> - CH08: Canon Beiler → Alea Glick (Eliza) — Canon done for show
-> - CH05 headset: Canon → Chrit Glick; give Chrit his pack — ready for Act III as Boaz
->
-> *(CH11 Kaley/Orpah still needed — swap at her exit line in Part 6)*
+> 🎤 **MIC:** SWAP 🔀
+> - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
+> - CH10 BOAZ: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
+> - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 
 > 💡 **LIGHTS:** Fade Off
 
@@ -1275,11 +1251,11 @@ Our God above
 
 **ORPAH** — “I love you Naomi, mother. God be with you.” Orpah kisses Naomi, turns and leaves, but Ruth clings to her.
 
-> 🎤 **MIC:** Orpah (Kaley, CH11) done after this exit — pack returns at intermission.
-
-
 **NAOMI** — “Look, your sister-in-law is going back to her people and to her gods; return after her.”
 
+
+> 🎤 **MIC:** SWAP 🔀
+> - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
 
 > 🎵 **MUSIC:** Baby Mine Slow Version
 
@@ -1428,17 +1404,6 @@ Everything worth living for is there in God’s plan
 ---
 
 # ❖ INTERMISSION
-
-> 🎤 **PACK SWAPS — intermission (packs only, headsets stay on):**
-> - CH03: Derek Stoltzfus → *(stays on Derek — Lewis in Act III, no swap needed)*
-> - CH06: Hudson Yoder → Zoe Yoder (Rahab)
-> - CH08: Canon Beiler → Alea Glick (Eliza)
-> - CH11: Kaley Shirk → Alan Miller (Israelite Leader)
->
-> 🎤 **HEADSET SWAP:**
-> - CH05: Canon Beiler returns headset → Chrit Glick; give Chrit his pack
->
-> 🎤 **BOARD: Unmute CH05 BOAZ, CH09 ELIZ, CH10 ABIGAIL**
 
 ---
 

@@ -1,8 +1,16 @@
 # Ruth the Musical — Act III
 
-> 🎤 **ACT III HOT (all 11):** CH01 NARR · CH02 NAOMI · CH03 LEWIS(Derek S.) · CH04 RUTH · CH05 BOAZ · CH06 RAHAB · CH07 DANIEL(Greg) · CH08 ELIZA · CH09 ELIZ · CH10 ABIGAIL · CH11 ISRAELITE(Alan)
+---
+
+> 🎤 **MIC Overview**
 >
-> **No pack:** Jenny — Ashley · Hannah — Emily *(both project into nearby open mics)*
+> todo need pack & headset curtain assignments
+>
+> **No pack:** Ashley M. (Jenny) *(pit mic)*
+>
+> **Zoe (RAHAB):** Hot during Love is in the Air for pit support
+
+---
 
 ## Returning Home—PART ONE 
 
@@ -283,6 +291,11 @@ Gossip is sin, I hate it the most”
 
 ## Ruth & Boaz—PART THREE
 
+> 🎤 **MIC:** Provide pit mic to Emily M. (Jenny) - on ground while gleaning
+>
+> 🎤 **MIC:** SWAP 🔀 - ⌛ Time Sensitive ⌛
+> - CH14 GRAN: Alea Glick (Eliza) → Kaley Shirk (Delilah)
+
 > 🎵 **MUSIC:** End of An Era
 
 **NARRATOR**
@@ -293,25 +306,25 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 *— END OF SONG —*
 
 
-**ELIZA** — “Shalom ladies! Oh a new women joining us, who might you be?”
+**DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 
 
 **RUTH** — “My name is Ruth.”
 
 
-**ELIZA** — “Naomi’s daughter-in-law, I have heard of you, the Moabite turned Hebrew.”
+**DELILAH** — “Naomi’s daughter-in-law, I have heard of you, the Moabite turned Hebrew.”
 
 
 **HANNAH** — “I also have heard of you.”
 
 
-**JENNY** — “And I as well.”
+**JENNY** — “And I as well.” _(🎤: pit mic)_
 
 
 **RUTH** — “Sound like word gets around quick.”
 
 
-**ELIZA** — “It does. Tell me, is it true that your people sacrifice their young to the false gods of Moab?”
+**DELILAH** — “It does. Tell me, is it true that your people sacrifice their young to the false gods of Moab?”
 
 
 **RUTH** — “In some cases. I have run from such a life. But God is redeeming my story, which I am forever grateful too.”
@@ -329,13 +342,13 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 **RUTH** — “Who’s that?”
 
 
-**ELIZA** — “Dreamy isn’t he? He’s boaz, he owns this field. Anyways ladies, I have come to tell you that breakfast is ready. Ruth you are welcome to join of-course.”
+**DELILAH** — “Dreamy isn’t he? He’s boaz, he owns this field. Anyways ladies, I have come to tell you that breakfast is ready. Ruth you are welcome to join of-course.”
 
 
 **RUTH** — “I better not. I have much to glean.”
 
 
-**ELIZA** — “Very well then. Ladies”
+**DELILAH** — “Very well then. Ladies”
 
 
 *The gleaners move to a seperate spot to eat.*
@@ -408,6 +421,8 @@ Boaz—“Please, do not go into another field to glean, but keep near to the wo
 *Boaz leads Ruth away from center stage. Abigail and Elizabeth step center stage.*
 
 ### 🎵 Love is in the Air
+
+> 🎤 **MIC:** Keep RAHAB hot for pit support
 
 “Shalom Abigail”  
 “Shalom Elizabeth”  
@@ -482,6 +497,8 @@ Love is in the air
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** Mute RAHAB (in pit)
+>
 > 💡 **LIGHTS:** Lights go black
 >
 > 💡 **LIGHTS:** Lights fade on
@@ -816,7 +833,8 @@ Ruth sleeps at the threshing floor that night, once early morning comes, while i
 
 Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, knowing that Boaz is hurriedly making the proper preparations for their hopeful marriage.  
 
-> 🎤 **MIC:** Lewis (Derek S., CH03) entering — same pack as Elimalek all show.
+> 🎤 **MIC:** SWAP 🔀
+> - CH11 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
 
 ## The Accord—PART SEVEN
 
@@ -968,13 +986,20 @@ She says that she would love to get married! (Get married, get married)
 Boaz smiles, his teeth so clean (Teeth so clean!)  
 He does cry, with Jubilee! (Oh yipeee!)  
 They both hug with joy that they will get married  
+
 > 💡 **LIGHTS:** Lights Go black
+
+> 🎤 **MIC:** SWAP 🔀
+>
+> CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
 
 ## Rumors—PART EIGHT 
 
 ### 🎵 Rumors
 
 > 🎵 **MUSIC:** Press Conference Instrumental from Anastasia
+
+> 🎤 **MIC:** Turn up monitors
 
 *(Everyone enters yelling)*  
 
@@ -1071,6 +1096,8 @@ I wonder could it be, they marry!?
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** Turn monitors back
+
 > 💡 **LIGHTS:** Go black
 
 ## The Wedding—PART NINE
@@ -1083,7 +1110,6 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 > ⏱ **TIME:** 0:25
 
 **ISRAELITE LEADER** — “We all, in the presence of these witnesses, witness a holy and unbreakable matrimony of Boaz and Ruth. That you Ruth be like a quiet blossom by the river, and Boaz the sturdy ground that holds it together. Amen! Now, for a blessing from mothers!
-
 
 *Everyone claps and cheers!*
 
