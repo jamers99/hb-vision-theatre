@@ -77,14 +77,14 @@ KNOWN_CHARS = {
 # start_active=False → file has an act header that triggers content processing.
 CONVERSIONS = [
     (
-        'script/RUTH FIRST DRAFT (FIRST & SECOND ACT).docx',
-        'script/Ruth - Act I & II.md',
+        '../script/RUTH FIRST DRAFT (FIRST & SECOND ACT).docx',
+        '../script/Ruth - Act I & II.md',
         'Ruth the Musical — Act I & II',
         False,
     ),
     (
-        'script/RUTH FIRST DRAFT (THIRD ACT).docx',
-        'script/Ruth - Act III.md',
+        '../script/RUTH FIRST DRAFT (THIRD ACT).docx',
+        '../script/Ruth - Act III.md',
         'Ruth the Musical — Act III',
         True,   # This file has no "Third Act" plain-text marker
         {
