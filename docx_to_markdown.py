@@ -87,6 +87,18 @@ CONVERSIONS = [
         'script/Ruth - Act III.md',
         'Ruth the Musical — Act III',
         True,   # This file has no "Third Act" plain-text marker
+        {
+            # Maps raw docx paragraph text → desired ## heading (case-insensitive lookup)
+            'RUTH ACT TWO—RETURNING HOME':  'Returning Home—PART ONE',
+            'BETHLEHEMS GOSSIP':            "Bethlehem's Gossip—PART TWO",
+            'RUTH & BOAZ':                  'Ruth & Boaz—PART THREE',
+            "NAOMI's plan":                 "Naomi's Plan—PART FIVE",
+            'ACT SIX—THE THRESHING FLOOR':  'The Threshing Floor—PART SIX',
+            'ACT SEVEN—THE ACCORD':         'The Accord—PART SEVEN',
+            'Rumors':                       'Rumors—PART EIGHT',
+            'THE WEDDING':                  'The Wedding—PART NINE',
+            'THE FINAL SCENE':              'THE END—PART TEN',
+        },
     ),
 ]
 
@@ -363,7 +375,7 @@ def append_cue(lines, cue_line):
 # Main converter
 # ---------------------------------------------------------------------------
 
-def convert(input_path, output_path, doc_title, start_active=False):
+def convert(input_path, output_path, doc_title, start_active=False, section_map=None):
     """
     Convert a single .docx script to Markdown.
 
@@ -372,7 +384,12 @@ def convert(input_path, output_path, doc_title, start_active=False):
     doc_title    : shown as the # H1 at the top of the Markdown file
     start_active : True if the file has no plain-text act header and content
                    should be processed from the first paragraph onwards
+    section_map  : optional dict mapping raw docx paragraph text (case-insensitive)
+                   to the desired ## heading text, overriding auto-detection and
+                   reformatting for that paragraph.
     """
+    section_lookup = {k.strip().lower(): v for k, v in (section_map or {}).items()}
+
     doc = docx.Document(input_path)
     paras = doc.paragraphs
     texts = [p.text.strip() for p in paras]
@@ -406,6 +423,16 @@ def convert(input_path, output_path, doc_title, start_active=False):
         prev_blank = False
         all_bold = bold_flags[i]
         mixed = has_mixed_bold(para)
+
+        # section_map overrides normal classification, but only for plain-text
+        # paragraphs — bold paragraphs with the same text (e.g. a song title
+        # "Rumors") must still go through normal bold classification.
+        if not all_bold and text.strip().lower() in section_lookup:
+            ensure_blank()
+            lines += [f'## {section_lookup[text.strip().lower()]}', '']
+            subtitle_done = True
+            i += 1
+            continue
 
         # ── All-bold paragraph ───────────────────────────────────────────────
         if all_bold:
@@ -512,5 +539,7 @@ def convert(input_path, output_path, doc_title, start_active=False):
 # ---------------------------------------------------------------------------
 
 if __name__ == '__main__':
-    for input_path, output_path, title, start_active in CONVERSIONS:
-        convert(input_path, output_path, title, start_active)
+    for args in CONVERSIONS:
+        input_path, output_path, title, start_active = args[:4]
+        section_map = args[4] if len(args) > 4 else None
+        convert(input_path, output_path, title, start_active, section_map)
