@@ -1,3 +1,5 @@
+## Characters with Lines
+
 | Character | Actor |
 |---|---|
 | Narrator | Bethany Miller |
@@ -26,3 +28,27 @@
 | Josh | Greg Stoltzfoos |
 | Jonathan | Chrit Glick |
 | Jenny | Ashley Martin |
+
+## By Actor
+
+| Actor | Characters |
+|---|---|
+| Alan Miller | Israelite Leader |
+| Alea Glick | Granny, Eliza |
+| Ashley Martin | Jenny |
+| Bethany Miller | Narrator |
+| Canon Beiler | Chilion (Child) |
+| Chrit Glick | Boaz, Jonathan |
+| Derek Esh | James |
+| Derek Stoltzfus | Elimalek, Lewis |
+| Elsie Weldon | Ruth |
+| Emily Shirk | Hannah |
+| Greg Stoltzfoos | Daniel, Moabite Prince, Moab Thug (Lead), Josh |
+| Hannah Flaud | Abigail |
+| Hudson Yoder | Mahlon (Child) |
+| Jamian Esh | Mahlon (Adult) |
+| Joshua Harrison | Chilion (Adult) |
+| Kaley Shirk | Orpah, Delilah |
+| Naomi Miller | Naomi |
+| Olivia Yoder | Elizabeth |
+| Zoe Yoder | Rahab |
