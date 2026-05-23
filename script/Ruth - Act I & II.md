@@ -1,4 +1,4 @@
-# Ruth the Musical — Acts I & II
+# Ruth the Musical — Act I & II
 
 ---
 
