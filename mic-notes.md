@@ -80,7 +80,7 @@
 | Derek Esh | pit mic (Act I) |
 | Derek Stoltzfus | ELIM (all acts) |
 | Elsie Weldon | RUTH (Acts II–III) |
-| Emily Shirk | SWING (Acts I–III early), ELIM (Act III late) |
+| Emily Shirk | SWING (Act I opening, Act III early), ELIM (Act III late) |
 | Greg Stoltzfoos | GREG (all acts) |
 | Hannah Flaud | ABY (Acts I, III) |
 | Hudson Yoder | ABY (Act I, Act II flashback) |
