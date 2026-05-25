@@ -15,8 +15,6 @@
 
 ## Channel Assignments
 
-//todo get Derek Esh a headset to help during ensemble scenes
-
 | Channel | Label | Act I | Act II | Act III |
 |---|---|---|---|---|
 | CH04 | RUTH | Israelite Leader (Alan) | Ruth (Elsie) | Ruth |

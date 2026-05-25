@@ -6,8 +6,6 @@
 >
 > todo need pack & headset curtain assignments
 >
-> TODO - House Music doors open
->
 > TODO - put in notes about who has packs in the ensemble to help push choir
 >
 > TODO - charge devices (phone & laptop)
@@ -15,6 +13,8 @@
 > TODO - fresh pack batteries
 >
 > TODO - set up walkie talkies for backstage communication
+>
+> TODO - talk to Choir lead about placing key singers near choir mics
 
 ---
 
@@ -1216,7 +1216,7 @@ Our God above
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
-> - CH10 BOAZ: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
+> - CH10 BOAZ & **HEADSET**: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 > - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 
