@@ -834,7 +834,7 @@ Ruth sleeps at the threshing floor that night, once early morning comes, while i
 Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, knowing that Boaz is hurriedly making the proper preparations for their hopeful marriage.  
 
 > 🎤 **MIC:** SWAP 🔀
-> - CH11 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
+> - CH16 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
 
 ## The Accord—PART SEVEN
 

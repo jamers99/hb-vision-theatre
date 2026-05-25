@@ -1218,6 +1218,7 @@ Our God above
 > - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
 > - CH10 BOAZ: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
+> - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 
 > 💡 **LIGHTS:** Fade Off
 
