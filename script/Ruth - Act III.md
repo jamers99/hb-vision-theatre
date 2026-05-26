@@ -4,17 +4,16 @@
 
 > 🎤 **MIC Overview**
 >
-> todo need pack & headset curtain assignments
->
 > **No pack:** Ashley M. (Jenny) *(pit mic)*
 >
-> **Zoe (RAHAB):** Hot during Love is in the Air for pit support
+> **Zoe (RAHAB):** Hot during Love is in the Air for pit support; unmute again after lights fade on for The Proposal scene
 
 ---
 
 ## Returning Home—PART ONE 
 
 > 🎵 **MUSIC:** Someone Loves Us
+> 🎤 **MIC:** 🔊 ALL HOT
 
 *Scene opens with Naomi and Ruth walking back into Bethlehem for the first time.*
 > ⏱ **TIME:** 0:12
@@ -53,6 +52,8 @@
 
 
 *The crowd disperses.*
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, RUTH
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -154,6 +155,7 @@
 
 **RAHAB AND ELIZABETH LEAVE**
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **NAOMI** — “Shalom… I am sorry for Elizabeth, she is a good woman, though if my memory does not forsake me, she has always been a bit nosy.”
 
@@ -182,6 +184,8 @@
 ## Bethlehem’s Gossip—PART TWO 
 
 *The scene changes focus to Elizabeth walking to Abigails home.*
+
+> 🎤 **MIC:** 🔊 ALL HOT *(ensemble joins during the song)*
 
 ### 🎵 Gossip Is Sin!
 
@@ -268,6 +272,8 @@ Gossip is sin, I hate it the most”
 Please keep this quiet, word must stay close  
 Gossip is sin, I hate it the most”  
 
+> 🎤 **MIC:** 🔊 HOT — ELIZ, ABY
+
 **ABIGAIL** — “Oh but what is to be done about the girl? She can’t stay here, not as villain!”
 
 **ELIZABETH** — “Nothing Abigail, we are to do nothing.”
@@ -297,6 +303,7 @@ Gossip is sin, I hate it the most”
 > - CH14 GRAN: Alea Glick (Eliza) → Kaley Shirk (Delilah)
 
 > 🎵 **MUSIC:** End of An Era
+> 🎤 **MIC:** 🔊 HOT — NARR
 
 **NARRATOR**
 
@@ -305,6 +312,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH
 
 **DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 
@@ -335,6 +343,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 **BOAZ** — “The Lord be with you”
 
+> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, BOAZ
 
 **THE GLEANERS** — “The Lord bless you!”
 
@@ -352,6 +361,8 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 
 *The gleaners move to a seperate spot to eat.*
+
+> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, GREG
 
 **BOAZ** — “Daniel? Who’s young women is this?”
 
@@ -419,6 +430,8 @@ Boaz—“Please, do not go into another field to glean, but keep near to the wo
 **BOAZ** — “Please Ruth, it does not matter so much where you come from, but more where you are going. Do not gather grain in another field, but always my own, for here you shall glean much. In fact, if I may, let me show you where my land reaches, so that you will always know you are in my refuge.”
 
 *Boaz leads Ruth away from center stage. Abigail and Elizabeth step center stage.*
+
+> 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
 
 ### 🎵 Love is in the Air
 
@@ -504,6 +517,7 @@ Love is in the air
 > 💡 **LIGHTS:** Lights fade on
 >
 > 🎵 **MUSIC:** The Proposal (Under The Horse Chestnut Tree)
+> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, RAHAB, GREG *(unmute RAHAB — back on stage)*
 
 **BOAZ** — “Ruth, come, eat with my workers.”
 
@@ -632,6 +646,7 @@ Love is in the air
 ## Naomi’s Plan—PART FIVE
 
 > 🎵 **MUSIC:** Miss Potter
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH
 
 **NARRATOR**
 
@@ -705,6 +720,7 @@ This brings us to the present hour. The harvest is in its final throws, and Naom
 ### 🎵 Falling
 
 > 🎵 **MUSIC:** Karaoke Time! - Something there - Beauty and the beast (YouTube)
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, BOAZ, RAHAB
 
 **RUTH**
 
@@ -771,6 +787,7 @@ I think I maybe, just maybe, falling too
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **RUTH** — “So what am I to do?”
 
@@ -797,6 +814,7 @@ I think I maybe, just maybe, falling too
 ## The Threshing Floor—PART SIX 
 
 > 🔊 **SOUND:** Grass Hoppers
+> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, BOAZ
 
 *“So she went down to the threshing floor and did everything her mother-in-law had instructed her to do. When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him. In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!” (Ruth 3:6-8).*
 
@@ -837,6 +855,8 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 > - CH16 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
 
 ## The Accord—PART SEVEN
+
+> 🎤 **MIC:** 🔊 HOT — BOAZ, ELIM, SWING
 
 *Scene opens with Boaz and ten village leaders collected together to witness the transaction.*
 
@@ -956,6 +976,8 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 *Scene switches to Naomi and Ruth.*
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+
 **NAOMI** — “Sit down Ruth, you're pacing a valley in the floor.”
 
 
@@ -968,6 +990,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 ### 🎵 Boaz’s Proposal
 
 > 🎵 **MUSIC:** Ballroom Waltz
+> 🎤 **MIC:** 🔊 HOT — NARR, RAHAB, GREG
 
 **NARRATOR**
 
@@ -998,6 +1021,7 @@ They both hug with joy that they will get married
 ### 🎵 Rumors
 
 > 🎵 **MUSIC:** Press Conference Instrumental from Anastasia
+> 🎤 **MIC:** 🔊 ALL HOT
 
 > 🎤 **MIC:** Turn up monitors
 
@@ -1097,12 +1121,14 @@ I wonder could it be, they marry!?
 *— END OF SONG —*
 
 > 🎤 **MIC:** Turn monitors back
+> 🎤 **MIC:** 🔇 ALL MUTED
 
 > 💡 **LIGHTS:** Go black
 
 ## The Wedding—PART NINE
 
 > 🎵 **MUSIC:** You Must Sample This Tart
+> 🎤 **MIC:** 🔊 ALL HOT
 
 **NARRATOR**
 

@@ -22,6 +22,8 @@
 
 ## SHALOM—PART ONE
 
+> 🎤 **MIC:** 🔊 ALL HOT
+
 ### 🎵 Shalom
 
 > 💡 **LIGHTS:** fade on, highlighting the Narrator
@@ -252,6 +254,8 @@ Welcome to our home of Bethlehem
 
 *Everyone breaks out in village commotion, speaking to one another making for a lively town scene. The scene then focuses on Naomi, Elimalek, and Granny at home, at a set dinner table.*
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ
+
 **NAOMI** — “Elimalek, I’m home!”
 
 
@@ -331,6 +335,8 @@ Someone, to save us from us
 
 
 ## The Famine—PART TWO
+
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN, ABY, BOAZ
 
 ### 🎵 The Famine
 
@@ -426,6 +432,8 @@ A home they can live in, despite the despair
 
 (15 minuets into the drama)  
 
+> 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
+
 ### 🎵 Stay, I pray you
 
 > 🎵 **MUSIC:** Stay I Prayer You
@@ -494,6 +502,7 @@ I’ll bless my homeland, till I die.
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ *(ensemble exits after song)*
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH14 GRAN: Alea Glick (Granny) → Joshua Harrison (Chilion Adult)
@@ -501,6 +510,8 @@ I’ll bless my homeland, till I die.
 ## The Death of Elimalek—PART FOUR
 
 > 🎵 **MUSIC:** Who I Want to Be (played until 0:40)
+
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN, ABY, BOAZ
 
 **NARRATOR**
 
@@ -511,6 +522,7 @@ Driven by desperation, Elimalek, Naomi, and their two sons set out on the long, 
 
 **MAHLON** — “Yes father!” Both boys dart off stage.
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM
 
 **NAOMI** — “Here my husband, take some bread.”
 
@@ -544,6 +556,7 @@ Driven by desperation, Elimalek, Naomi, and their two sons set out on the long, 
 
 **NAOMI** — “Yes! By God’s speed I will run my love!”
 
+> 🎤 **MIC:** 🔊 HOT — ELIM
 
 ### 🎵 God Provides
 
@@ -593,6 +606,7 @@ God please grant me just another dawn
 *— END OF SONG —*
 
 > 💡 **LIGHTS:** Go black
+> 🎤 **MIC:** 🔇 ALL MUTED
 
 (25 minuets into the drama)  
 
@@ -601,6 +615,8 @@ God please grant me just another dawn
 # ACT TWO—MOAB  
 
 ## RUTH—PART ONE
+
+> 🎤 **MIC:** 🔊 ALL HOT
 
 ### 🎵 MOAB
 
@@ -627,6 +643,7 @@ God please grant me just another dawn
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **NAOMI** — “That was a brave thing you did. Standing up to a Moabite prince…”
 
@@ -727,6 +744,8 @@ Could there be more to, life, more to life than what I see here?
 *— END OF SONG —*
 
 ## Learning—PART TWO
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GRAN
 
 **NAOMI** — “Dinner is ready! Quickly, light the candles, the young lady should be here any moment.”
 
@@ -931,6 +950,8 @@ to learn all that is there to know!
 
 ## Is There a God?—PART THREE
 
+> 🎤 **MIC:** 🔊 HOT — RUTH
+
 ### 🎵 Is There a God?
 
 > 🎵 **MUSIC:** In My Dreams by Anastasia Instrumental
@@ -994,6 +1015,7 @@ God do you plan to maybe, use me
 
 ## Mahlon and Chilion’s Death—PART FOUR
 
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH, RAHAB, GRAN, SWING
 
 > 🎵 **MUSIC:** Summer is coming
 
@@ -1046,6 +1068,7 @@ God do you plan to maybe, use me
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — RAHAB, GRAN, GREG *(Mahlon & Chilion go to market; Naomi, Ruth, Orpah exit)*
 
 **CHILION** — “Brother did you ever imagine?”
 
@@ -1117,6 +1140,7 @@ God do you plan to maybe, use me
 
 *— END OF SONG —*
 
+> 🎤 **MIC:** 🔊 HOT — NARR
 
 > 🎵 **MUSIC:** David & Alijah
 
@@ -1137,6 +1161,7 @@ And so it is, the lot we find our beloved characters.
 > 🎵 **MUSIC:** Jesen
 >
 > 💡 **LIGHTS:** Fade On
+> 🎤 **MIC:** 🔊 HOT — ELIM, ABY, BOAZ
 
 *Scene opens with Naomi standing center stage, little Mahlon and Chilean come running into the scene, followed by Elimalek.*
 
@@ -1224,6 +1249,7 @@ Our God above
 
 “Your God Shall Be My God”—PART SIX  
 > 💡 **LIGHTS:** Fade On
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, SWING
 
 **NAOMI** — “It is time I go my daughters.”
 
@@ -1257,6 +1283,7 @@ Our God above
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 > 🎵 **MUSIC:** Baby Mine Slow Version
 
@@ -1401,6 +1428,7 @@ Everything worth living for is there in God’s plan
 *— END OF SONG —*
 
 > 💡 **LIGHTS:** Go black
+> 🎤 **MIC:** 🔇 ALL MUTED
 
 ---
 
