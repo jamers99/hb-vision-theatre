@@ -1231,7 +1231,7 @@ I know our God has given us this special skill
 
 **RAHAB** — “The Lord has provided through my son.”
 
-
+//todo this is removed
 **DANIEL** — “I see that. But what about myself? Do you think I could have the chance to provide for you?”
 
 
@@ -1262,6 +1262,7 @@ All this said, the greatest act of hope is still yet to to be revealed. You see,
 
 > 🎵 **MUSIC:** Days in the Sun (Youtube)
 
+//todo mic mute notes
 **NAOMI**
 
 “We must never take for granted, what God has given us”  
