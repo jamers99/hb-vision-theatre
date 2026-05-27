@@ -15,6 +15,8 @@
 > TODO - set up walkie talkies for backstage communication
 >
 > TODO - talk to Choir lead about placing key singers near choir mics
+>
+> TODO - DANIEL is played by Derek
 
 ---
 
@@ -745,7 +747,7 @@ Could there be more to, life, more to life than what I see here?
 
 ## Learning—PART TWO
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GRAN
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GRAN, NARR
 
 **NAOMI** — “Dinner is ready! Quickly, light the candles, the young lady should be here any moment.”
 
@@ -1228,6 +1230,8 @@ Know He loves you my sons, as His own
 Always near to hold you close, as His own  
 
 *Elimnalek looks to Naomi.*
+
+> 🎤 **MIC:** 🔊 HOT — **NARR**, ELIM, ABY, BOAZ
 
 **ELIMALEK**
 

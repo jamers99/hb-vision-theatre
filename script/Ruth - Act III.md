@@ -432,6 +432,7 @@ Boaz—“Please, do not go into another field to glean, but keep near to the wo
 *Boaz leads Ruth away from center stage. Abigail and Elizabeth step center stage.*
 
 > 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
+TODO not right
 
 ### 🎵 Love is in the Air
 
@@ -1014,7 +1015,7 @@ They both hug with joy that they will get married
 
 > 🎤 **MIC:** SWAP 🔀
 >
-> CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
+> - CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
 
 ## Rumors—PART EIGHT 
 
@@ -1022,6 +1023,7 @@ They both hug with joy that they will get married
 
 > 🎵 **MUSIC:** Press Conference Instrumental from Anastasia
 > 🎤 **MIC:** 🔊 ALL HOT
+//todo who are the highlights
 
 > 🎤 **MIC:** Turn up monitors
 
@@ -1129,6 +1131,7 @@ I wonder could it be, they marry!?
 
 > 🎵 **MUSIC:** You Must Sample This Tart
 > 🎤 **MIC:** 🔊 ALL HOT
+//todo not true
 
 **NARRATOR**
 
@@ -1149,6 +1152,8 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 ### 🎵 Rehab’s Dance
 
 > 🎵 **MUSIC:** Unzer Nigun Our Melody
+
+//todo mic levels
 
 **RAHAB (DANIEL)**
 
