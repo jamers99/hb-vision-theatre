@@ -241,6 +241,7 @@ Welcome to our home of Bethlehem
 > 🎤 **MIC:** SWAP 🔀
 > - CH09 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
 > - CH11 RAHAB: Zoe Yoder (Rahab) → Jamian Esh (Mahlon Adult)
+> - CH12 VOCAL & **HEADSET**: Olivia Yoder (Elizabeth) → Derek Esh
 > - CH15 ABY: Hannah Flaud (Abigail) → Hudson Yoder (Little Mahlon)
 > - CH16 SWING: Emily Shirk (Hannah) → Kaley Shirk (Orpah)
 > - CH10 BOAZ & **HEADSET**: Chrit Glick (Jonathan) → Canon Beiler (Little Chilion)
@@ -613,7 +614,7 @@ God please grant me just another dawn
 
 ## RUTH—PART ONE
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, GREG
+> 🎤 **MIC:** 🔊 HOT — RUTH, GREGO
 
 ### 🎵 MOAB
 
@@ -1068,7 +1069,7 @@ God do you plan to maybe, use me
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RAHAB, GREG, GRAN
+> 🎤 **MIC:** 🔊 HOT — RAHAB, GREGO, GRAN
 
 **CHILION** — “Brother did you ever imagine?”
 
@@ -1244,7 +1245,7 @@ Our God above
 > 🎤 **MIC:** SWAP 🔀
 > - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
 > - CH10 BOAZ & **HEADSET**: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
-> - CH10 GREG & **HEADSET**: Greg Stoltzfoos (Moab Thug) → Derek Esh (Ensemble, Daniel)
+> - CH13 GREGO & **HEADSET**: Greg Stoltzfoos (Moab Thug) → Olivia Yoder (Elizabeth)
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 > - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 

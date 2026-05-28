@@ -4,7 +4,7 @@
 
 🎵 **MUSIC:** Someone Loves Us
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, ABY
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, GREGO, ABY
 
 *Scene opens with Naomi and Ruth walking back into Bethlehem for the first time.*
 ⏱ **TIME:** 0:12
@@ -44,7 +44,7 @@
 
 *The crowd disperses.*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, ELIZ, ABY
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GREGO, ABY
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -176,7 +176,7 @@
 
 *The scene changes focus to Elizabeth walking to Abigails home.*
 
-> 🎤 **MIC:** 🔊 ELIZ, ABY, SWING
+> 🎤 **MIC:** 🔊 GREGO, ABY, SWING
 
 ### 🎵 Gossip Is Sin!
 
@@ -220,7 +220,7 @@ She won’t last long, she’ll call it the quits
 
 **HANNAH** — “The secrete is safe with me.”
 
-> 🎤 **MIC:** 🔊 ELIZ, **GRAN**, ABY, SWING
+> 🎤 **MIC:** 🔊 GREGO, **GRAN**, ABY, SWING
 
 **HANNAH**
 
@@ -268,7 +268,7 @@ Gossip is sin, I hate it the most”
 Please keep this quiet, word must stay close  
 Gossip is sin, I hate it the most”  
 
-> 🎤 **MIC:** 🔊 HOT — ELIZ, ABY
+> 🎤 **MIC:** 🔊 HOT — GREGO, ABY
 
 **ABIGAIL** — “Oh but what is to be done about the girl? She can’t stay here, not as villain!”
 
@@ -366,11 +366,10 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *The gleaners move to a seperate spot to eat.*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ
+> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, VOCAL
 
 **BOAZ** — “Daniel? Who’s young women is this?”
 
-*(🎤 projected to BOAZ's mic)*
 **DANIEL** — “Ruth? She is Naomi’s daughter-in-law, now widow, who came back with Naomi from the country of Moab. She has been here since early this morning working, taking only a brief rest. Truth be told, she has committed herself to following our God, ‘Your people shall be my people, and your God, my God’, I believe is the line she used.”
 
 
@@ -435,7 +434,7 @@ Boaz—“Please, do not go into another field to glean, but keep near to the wo
 
 *Boaz leads Ruth away from center stage. Abigail and Elizabeth step center stage.*
 
-> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY
+> 🎤 **MIC:** 🔊 HOT - GREGO, ABY
 
 ## Love is in The Air—PART FOUR
 
@@ -464,7 +463,7 @@ Did you see the way they looked dear?
 
 **ELIZABETH** — “Hmmm”
 
-> 🎤 **MIC:** 🔊 HOT - ELIM, BOAZ, RAHAB (pit), ELIZ, GRAN, ABY, SWING
+> 🎤 **MIC:** 🔊 HOT - ELIM, BOAZ, RAHAB (pit), VOCAL, GREGO, GRAN, ABY, SWING
 
 *(Group Ensemble) (Abigail on the echo)*  
 Did you hear the way he looked dear  
@@ -972,7 +971,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 ### 🎵 Boaz’s Proposal
 
 🎵 **MUSIC:** Ballroom Waltz
-> 🎤 **MIC:** 🔊 HOT — NARR, RAHAB
+> 🎤 **MIC:** 🔊 HOT — NARR, RAHAB, VOCAL
 
 **NARRATOR**
 
@@ -1013,7 +1012,7 @@ They both hug with joy that they will get married
 Did you all hear what I did hear?  
 Is it true, maybe you know when?  
 
-> 🎤 **MIC:** 🔊 PRIORITY: ELIZ
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO
 
 **ELIZABETH** — “A wedding may be near!”
 
@@ -1192,7 +1191,7 @@ I know our God has given us this special skill
 
 ⏱ **TIME:** 0:25
 
-> 🎤 **MIC:** 🔊 PRIORITY: ELIZ, ABY
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO, ABY
 
 **ELIZABETH** — “Oh Abigail, what a fun wedding this is!”
 
