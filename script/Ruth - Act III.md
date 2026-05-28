@@ -1215,35 +1215,7 @@ I know our God has given us this special skill
 
 **ELIZABETH** — “And look how right we were.”
 
-> ⏱ **TIME:** 0:54
-
-*Everyone Dances.*
-> ⏱ **TIME:** 1:20
-
-**DANIEL** — “Rehab, you look awfully nice this evening.”
-
-
-**RAHAB** — “Thank you Daniel.”
-
-
-**DANIEL** — “How do you get on since the death of your first husband?”
-
-
-**RAHAB** — “The Lord has provided through my son.”
-
-//todo this is removed
-**DANIEL** — “I see that. But what about myself? Do you think I could have the chance to provide for you?”
-
-
-**RAHAB** — “Daniel, are your proposing?”
-
-
-**DANIEL** — “I am!”
-
-
-**RAHAB** — “Why Daniel! I though you’d never ask!”
-
-> ⏱ **TIME:** 1:47
+⏱ **TIME:** 0:54
 
 *Everyone Dances.*
 

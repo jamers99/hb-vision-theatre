@@ -16,7 +16,6 @@
 | Orpah | Kaley Shirk |
 | Israelite Leader | Alan Miller |
 | Lewis | Derek Stoltzfus |
-| James | Derek Esh |
 | Daniel | Derek Esh |
 | Moabite Prince | Greg Stoltzfoos |
 | Moab Thug (Lead) | Greg Stoltzfoos |
@@ -39,7 +38,7 @@
 | Bethany Miller | Narrator |
 | Canon Beiler | Little Chilion |
 | Chrit Glick | Boaz, Jonathan |
-| Derek Esh | James, Daniel |
+| Derek Esh | Daniel |
 | Derek Stoltzfus | Elimalek, Lewis |
 | Elsie Weldon | Ruth |
 | Emily Shirk | Hannah |

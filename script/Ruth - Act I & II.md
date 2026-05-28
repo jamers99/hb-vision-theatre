@@ -1,24 +1,12 @@
 # Ruth the Musical — Act I & II
 
----
-
-> 🎤 **MIC Overview**
+> 🎤 **MIC: Pre-show Checklist**
 >
-> todo need pack & headset curtain assignments
->
-> TODO - put in notes about who has packs in the ensemble to help push choir
->
-> TODO - charge devices (phone & laptop)
->
-> TODO - fresh pack batteries
->
-> TODO - set up walkie talkies for backstage communication
->
-> TODO - talk to Choir lead about placing key singers near choir mics
->
-> TODO - DANIEL is played by Derek
-
----
+> - Laptop charger
+> - Replace all pack and handheld batteries
+> - Set up walkie talkies for backstage communication
+> - Distribute headsets & packs pre-costume
+> - Post-costume mic check
 
 # ACT ONE—The Famine  
 
@@ -172,7 +160,7 @@ I know God blessed me with my Naomi
 **JONATHAN** — You must pay here now!
 
 
-**JAMES** — Please buy this bread *(projects into nearby mic — no headset)*
+**DANIEL** — Please buy this bread *(🎤 projects into nearby mic — no headset)*
 
 **ABIGAIL** — It think its stale
 
