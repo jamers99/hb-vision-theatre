@@ -21,10 +21,10 @@ Document title             # Title
 Act header                 # ACT ONE / TWO / THREE
 Scene / part title         ## Scene Title
 Song title                 ### 🎵 Song Title
-LIGHTS cue                 > 💡 **LIGHTS:** description
-MUSIC cue                  > 🎵 **MUSIC:** song name
-Music time marker          > ⏱ **TIME:** 0:42
-SOUND cue                  > 🔊 **SOUND:** description
+LIGHTS cue                 💡 **LIGHTS:** description
+MUSIC cue                  🎵 **MUSIC:** song name
+Music time marker          ⏱ **TIME:** 0:42
+SOUND cue                  🔊 **SOUND:** description
 END OF SONG / MUSIC        *— END OF SONG —*
 Ensemble label             *(Male Ensemble)*
 Stage direction (parens)   *(stage direction)*
@@ -314,25 +314,25 @@ def is_plain_section_header(text):
 
 def fmt_lights(t):
     inner = re.sub(r'^LIGHTS\s*[:\-–—]\s*', '', strip_outer_parens(t), flags=re.IGNORECASE)
-    return '> 💡 **LIGHTS:** ' + inner.strip()
+    return '💡 **LIGHTS:** ' + inner.strip()
 
 def fmt_music(t):
     inner = strip_outer_parens(t)
     inner = re.sub(r'^MUSIC\s+TIME\s*[:\-–—]\s*', '', inner, flags=re.IGNORECASE)
     inner = re.sub(r'^MUSIC\s*[:\-–—]\s*', '', inner, flags=re.IGNORECASE)
     inner = re.sub(r'^Music\s*[:\-–—]\s*', '', inner)
-    return '> 🎵 **MUSIC:** ' + inner.strip()
+    return '🎵 **MUSIC:** ' + inner.strip()
 
 def fmt_time(t):
     inner = strip_outer_parens(t)
     inner = re.sub(r'^(MUSIC\s+)?TIME\s*[:\-–—]\s*', '', inner, flags=re.IGNORECASE)
     inner = re.sub(r'^Time\s*[:\-–—]\s*', '', inner, flags=re.IGNORECASE)
     inner = re.sub(r'^Fade out at\s*', '', inner, flags=re.IGNORECASE)
-    return '> ⏱ **TIME:** ' + inner.strip()
+    return '⏱ **TIME:** ' + inner.strip()
 
 def fmt_sound(t):
     inner = re.sub(r'^SOUND\s+AFFECT\s*[:\-–—]\s*', '', strip_outer_parens(t), flags=re.IGNORECASE)
-    return '> 🔊 **SOUND:** ' + inner.strip()
+    return '🔊 **SOUND:** ' + inner.strip()
 
 def fmt_ensemble(t):  return f'*({strip_outer_parens(t).strip()})*'
 def fmt_stage_dir(t): return f'*({strip_outer_parens(t).strip()})*'

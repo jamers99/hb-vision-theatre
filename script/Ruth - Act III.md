@@ -12,15 +12,15 @@
 
 ## Returning Home—PART ONE 
 
-> 🎵 **MUSIC:** Someone Loves Us
+🎵 **MUSIC:** Someone Loves Us
 > 🎤 **MIC:** 🔊 ALL HOT
 
 *Scene opens with Naomi and Ruth walking back into Bethlehem for the first time.*
-> ⏱ **TIME:** 0:12
+⏱ **TIME:** 0:12
 >
-> 💡 **LIGHTS:** Lights fade on
+💡 **LIGHTS:** Lights fade on
 >
-> ⏱ **TIME:** 0:18
+⏱ **TIME:** 0:18
 
 **ELIZABETH** — “Is this Naomi? The same Naomi that left us so many years ago?”
 
@@ -302,7 +302,7 @@ Gossip is sin, I hate it the most”
 > 🎤 **MIC:** SWAP 🔀 - ⌛ Time Sensitive ⌛
 > - CH14 GRAN: Alea Glick (Eliza) → Kaley Shirk (Delilah)
 
-> 🎵 **MUSIC:** End of An Era
+🎵 **MUSIC:** End of An Era
 > 🎤 **MIC:** 🔊 HOT — NARR
 
 **NARRATOR**
@@ -381,7 +381,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 ### 🎵 Stranger (Boaz addition)
 
-> 🎵 **MUSIC:** Herriot Smith and Robert Martin
+🎵 **MUSIC:** Herriot Smith and Robert Martin
 
 **BOAZ** — “Ruth, what a lovely name. My name is Boaz.”
 
@@ -513,11 +513,11 @@ Love is in the air
 
 > 🎤 **MIC:** Mute RAHAB (in pit)
 >
-> 💡 **LIGHTS:** Lights go black
+💡 **LIGHTS:** Lights go black
 >
-> 💡 **LIGHTS:** Lights fade on
+💡 **LIGHTS:** Lights fade on
 >
-> 🎵 **MUSIC:** The Proposal (Under The Horse Chestnut Tree)
+🎵 **MUSIC:** The Proposal (Under The Horse Chestnut Tree)
 > 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, RAHAB, GREG *(unmute RAHAB — back on stage)*
 
 **BOAZ** — “Ruth, come, eat with my workers.”
@@ -627,7 +627,7 @@ Love is in the air
 **RAHAB** — “Of-course my dear. Anytime.”
 
 
-> 🎵 **MUSIC:** A Chill Draft About the Knees
+🎵 **MUSIC:** A Chill Draft About the Knees
 
 *Rahab purposely takes a little barley and starts dropping it, where Ruth can find it. A little comedic scene happens where a Reaper attempts to pick up the dropped wheat, but Rehab snaps her fingers to get attention, and then very clear tells him to scram (through hand motion). Rehab then takes some more wheat from the man, and drops it on the floor. Ruth turns to see a bunch of wheat.*
 
@@ -646,7 +646,7 @@ Love is in the air
 
 ## Naomi’s Plan—PART FIVE
 
-> 🎵 **MUSIC:** Miss Potter
+🎵 **MUSIC:** Miss Potter
 > 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH
 
 **NARRATOR**
@@ -654,7 +654,7 @@ Love is in the air
 Ruth gleans from the kindness and goodness of Boaz’s field for the entire day. Joining Boaz for a hearty lunch, where she is encouraged to pack leftovers.  
 In the end, Ruth finds herself with an entire Ephah of Barley, far more than could ever be expected of someone from her societal status. So with a spring in her step, and a heart filled of gratitude, Ruth returns to Naomi arms full.  
 
-> ⏱ **TIME:** 0:50
+⏱ **TIME:** 0:50
 
 **NAOMI** — “My dear, you have brought home so much! I, how many fields?”
 
@@ -683,14 +683,14 @@ In the end, Ruth finds herself with an entire Ephah of Barley, far more than cou
 **NAOMI** — “May he be blessed by the Lord! Who’s kindness has not forsaken the living or the dead! Do you understand, Boaz is a relative, and one of our redeemers! It is so good that you go out and glean with his young reapers, lest another field you be assaulted! Oh my dear Ruth! You have no idea what joy you have brought me this evening!”
 
 
-> ⏱ **TIME:** 2:16
+⏱ **TIME:** 2:16
 
 **NARRATOR** — These next few months breeze by for our characters. Ruth spends the harvest gleaning in Boaz’s field, enjoying many lunches and acts of kindness from Boaz whom she becomes very well aquinted with. It should come as no surprise that this makes Naomi very happy indeed.
 
-> ⏱ **TIME:** 2:40
+⏱ **TIME:** 2:40
 
 In addition to this blossoming friendship, negative gossip about Ruth fades, and just as Naomi predicted, the lovely though sometimes nosy villagers of Bethlehem, accept Ruth as one of their very own. Why even Elizabeth and Abigail, come around to loving and cherishing Ruth, often noting her kindness and loyalty that they see in her.  
-> ⏱ **TIME:** 3:15
+⏱ **TIME:** 3:15
 
 This brings us to the present hour. The harvest is in its final throws, and Naomi firmly believes it is time for the next step. What step, one may ask? well I have feeling we are about to find out.  
 
@@ -720,7 +720,7 @@ This brings us to the present hour. The harvest is in its final throws, and Naom
 
 ### 🎵 Falling
 
-> 🎵 **MUSIC:** Karaoke Time! - Something there - Beauty and the beast (YouTube)
+🎵 **MUSIC:** Karaoke Time! - Something there - Beauty and the beast (YouTube)
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, BOAZ, RAHAB
 
 **RUTH**
@@ -810,11 +810,11 @@ I think I maybe, just maybe, falling too
 
 **RUTH** — “I will do as you say.”
 
-> 💡 **LIGHTS:** Lights fade out
+💡 **LIGHTS:** Lights fade out
 
 ## The Threshing Floor—PART SIX 
 
-> 🔊 **SOUND:** Grass Hoppers
+🔊 **SOUND:** Grass Hoppers
 > 🎤 **MIC:** 🔊 HOT — NARR, RUTH, BOAZ
 
 *“So she went down to the threshing floor and did everything her mother-in-law had instructed her to do. When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him. In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!” (Ruth 3:6-8).*
@@ -848,7 +848,7 @@ Boaz—“It is true that I am a guardian-redeemer of your family, though there 
 **NARRATOR**
 
 Ruth sleeps at the threshing floor that night, once early morning comes, while it is still dark, Boaz sends Ruth back to Naomi, arms full of about six pounds of Barley.  
-> 🔊 **SOUND:** Grasshoppers fade
+🔊 **SOUND:** Grasshoppers fade
 
 Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, knowing that Boaz is hurriedly making the proper preparations for their hopeful marriage.  
 
@@ -990,7 +990,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 ### 🎵 Boaz’s Proposal
 
-> 🎵 **MUSIC:** Ballroom Waltz
+🎵 **MUSIC:** Ballroom Waltz
 > 🎤 **MIC:** 🔊 HOT — NARR, RAHAB, GREG
 
 **NARRATOR**
@@ -1011,7 +1011,7 @@ Boaz smiles, his teeth so clean (Teeth so clean!)
 He does cry, with Jubilee! (Oh yipeee!)  
 They both hug with joy that they will get married  
 
-> 💡 **LIGHTS:** Lights Go black
+💡 **LIGHTS:** Lights Go black
 
 > 🎤 **MIC:** SWAP 🔀
 >
@@ -1021,7 +1021,7 @@ They both hug with joy that they will get married
 
 ### 🎵 Rumors
 
-> 🎵 **MUSIC:** Press Conference Instrumental from Anastasia
+🎵 **MUSIC:** Press Conference Instrumental from Anastasia
 > 🎤 **MIC:** 🔊 ALL HOT
 //todo who are the highlights
 
@@ -1125,18 +1125,18 @@ I wonder could it be, they marry!?
 > 🎤 **MIC:** Turn monitors back
 > 🎤 **MIC:** 🔇 ALL MUTED
 
-> 💡 **LIGHTS:** Go black
+💡 **LIGHTS:** Go black
 
 ## The Wedding—PART NINE
 
-> 🎵 **MUSIC:** You Must Sample This Tart
+🎵 **MUSIC:** You Must Sample This Tart
 > 🎤 **MIC:** 🔊 ALL HOT
 //todo not true
 
 **NARRATOR**
 
 And so our characters hurriedly gather for the wonderful and anticipated matrimony of Boaz and Ruth.  
-> ⏱ **TIME:** 0:25
+⏱ **TIME:** 0:25
 
 **ISRAELITE LEADER** — “We all, in the presence of these witnesses, witness a holy and unbreakable matrimony of Boaz and Ruth. That you Ruth be like a quiet blossom by the river, and Boaz the sturdy ground that holds it together. Amen! Now, for a blessing from mothers!
 
@@ -1151,7 +1151,7 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 ### 🎵 Rehab’s Dance
 
-> 🎵 **MUSIC:** Unzer Nigun Our Melody
+🎵 **MUSIC:** Unzer Nigun Our Melody
 
 //todo mic levels
 
@@ -1195,11 +1195,11 @@ To jump and dance, romance, doing your best of prance
 You see to dance, just dance, your life it will enhance  
 I know our God has given us this special skill  
 
-> 🎵 **MUSIC:** Kale Kale, Bride Bride
+🎵 **MUSIC:** Kale Kale, Bride Bride
 
 *Everyone breaks out in a large wedding dance!*
 
-> ⏱ **TIME:** 0:25
+⏱ **TIME:** 0:25
 
 **ELIZABETH** — “Oh Abigail, what a fun wedding this is!”
 
@@ -1221,18 +1221,18 @@ I know our God has given us this special skill
 
 ## THE END—PART TEN
 
-> 🎵 **MUSIC:** I Do Nothing Every Day
+🎵 **MUSIC:** I Do Nothing Every Day
 
 **NARRATOR**
 
 For the past hour and half we have witnessed our characters experience both heavy loss and provision.  
 Think back to Elimalek's internal struggle, as he, amidst sorrow and poverty, lead his family from Bethlehem to Moab. Or remember the intense pain Naomi feels, when she looses first her husband and later her two sons, to the unforgiving grip of death. Or what about the Hope enduring through Ruth, a stranger of unwavering loyalty and faith, committing to hold to Naomi’s side, no matter what circumstances may arise. After which emerges Boaz, it is through his benevolence that hope and mercy is granted to our dear widows, touching them in ways that cannot be explained through mere words.  
 All this said, the greatest act of hope is still yet to to be revealed. You see, Boaz and Ruth bear a son, Obed, through which comes the lineage of King David—a line extending to our Lord and Savior, Jesus Christ. And there lyes the true hope. You see, Jesus’s birth came through the lineage of Boaz, son of Rehab, a Jerichonite who was grafted into the Jewish people, and Ruth, and while her parents are not revealed, they were certainly Moabite, both Enemies of God, made right through faith. And so we come to the closing of our story.  
-> 🎵 **MUSIC:** End at 2:11
+🎵 **MUSIC:** End at 2:11
 
 ### 🎵 A New Day’s Begun
 
-> 🎵 **MUSIC:** Days in the Sun (Youtube)
+🎵 **MUSIC:** Days in the Sun (Youtube)
 
 //todo mic mute notes
 **NAOMI**

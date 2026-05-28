@@ -12,21 +12,23 @@
 
 ## SHALOM—PART ONE
 
-> 🎤 **MIC:** 🔊 ALL HOT
+> 🎤 **MIC:** 🔊 NARR
 
 ### 🎵 Shalom
 
-> 💡 **LIGHTS:** fade on, highlighting the Narrator
+💡 **LIGHTS:** fade on, highlighting the Narrator
 
 **NARRATOR**
 
 “Good evening, may I be the very first to say what an honor it is to perform for you tonight.”  
 
-> 🎵 **MUSIC:** Belle (Instrumental version from Youtube)
+🎵 **MUSIC:** Belle (Instrumental version from Youtube)
 
 Where we will go back to the days when judges ruled Israel, specifically to Bethlehem in Judah. For Ladies and Gentlemen, tonight, Vision Community Theatre proudly presents the very special true story, of Book of Ruth.”  
 
 **NARRATOR**
+
+> 🎤 **MIC:** 🔊 ALL
 
 Lets go back, to an ancient village  
 Where the time, was like none before  
@@ -232,8 +234,9 @@ Welcome to our home of Bethlehem
 
 **GRANNY** — Shalom!
 
-
 *— END OF SONG —*
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH04 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
@@ -243,8 +246,6 @@ Welcome to our home of Bethlehem
 > - CH10 BOAZ & **HEADSET**: Chrit Glick (Jonathan) → Canon Beiler (Little Chilion)
 
 *Everyone breaks out in village commotion, speaking to one another making for a lively town scene. The scene then focuses on Naomi, Elimalek, and Granny at home, at a set dinner table.*
-
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ
 
 **NAOMI** — “Elimalek, I’m home!”
 
@@ -287,7 +288,7 @@ Welcome to our home of Bethlehem
 **ELIMALEK** — “You see my sons, we are in a broken people, in a constant need of sacrifices, though one day…”
 
 
-> 🎵 **MUSIC:** Donnav Chavallin
+🎵 **MUSIC:** Donnav Chavallin
 
 **ELIMALEK** — “… one day there will be a conquering, like no man has ever before seen! Redeeming our state in humanity!”
 
@@ -334,7 +335,7 @@ Someone, to save us from us
 
 “Let us observe for a moment, the little Hebrew family at their Passover table. How good and deep is the richness of seeing multiple generations sit and enjoy the provisions of God. One wishes it could last forever. Though, as we will learn time and time again, nothing rarely does.”  
 
-> 🎵 **MUSIC:** Chim Chimney (Youtube Slow version)
+🎵 **MUSIC:** Chim Chimney (Youtube Slow version)
 
 “A few months pass, and while the previous crop had been strong, this year tells a very different story”  
 
@@ -357,7 +358,7 @@ I break my back, push the till
 And I know that still  
 This land is forsaken, it’s outside God’s will!  
 
-> ⏱ **TIME:** 1:30
+⏱ **TIME:** 1:30
 
 **ELIMALEK** — “Gather the children Naomi. We must be away from this place.”
 
@@ -374,7 +375,7 @@ This land is forsaken, it’s outside God’s will!
 **ELIMALEK** — “We must not think of our people any longer, you hear me, we must think only of our family.”
 
 
-> ⏱ **TIME:** 2:23
+⏱ **TIME:** 2:23
 
 **NARRATOR**
 
@@ -426,7 +427,7 @@ A home they can live in, despite the despair
 
 ### 🎵 Stay, I pray you
 
-> 🎵 **MUSIC:** Stay I Prayer You
+🎵 **MUSIC:** Stay I Prayer You
 
 **ELIMALEK**
 
@@ -499,7 +500,7 @@ I’ll bless my homeland, till I die.
 
 ## The Death of Elimalek—PART FOUR
 
-> 🎵 **MUSIC:** Who I Want to Be (played until 0:40)
+🎵 **MUSIC:** Who I Want to Be (played until 0:40)
 
 > 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN, ABY, BOAZ
 
@@ -550,7 +551,7 @@ Driven by desperation, Elimalek, Naomi, and their two sons set out on the long, 
 
 ### 🎵 God Provides
 
-> 🎵 **MUSIC:** The Neva Flows (Youtube)
+🎵 **MUSIC:** The Neva Flows (Youtube)
 
 **ELIMALEK**
 
@@ -595,7 +596,7 @@ God please grant me just another dawn
 
 *— END OF SONG —*
 
-> 💡 **LIGHTS:** Go black
+💡 **LIGHTS:** Go black
 > 🎤 **MIC:** 🔇 ALL MUTED
 
 (25 minuets into the drama)  
@@ -612,9 +613,9 @@ God please grant me just another dawn
 
 *Scene opens with lights out, and then there is a grand opening, when all the Moabites enter stage (maybe with an elephant?).*
 
-> 🎵 **MUSIC:** Breaking In
+🎵 **MUSIC:** Breaking In
 >
-> 💡 **LIGHTS:** Go on at (0:08)
+💡 **LIGHTS:** Go on at (0:08)
 
 *(SPEAK at 0:30)*  
 **MOABITE PRINCE** — “Well well well, if it isn’t a lovely young lady. Hey girl, you want to be my ninth wife?”
@@ -679,7 +680,7 @@ God please grant me just another dawn
 
 ### 🎵 Wonder
 
-> 🎵 **MUSIC:** The Beach (Little Women)
+🎵 **MUSIC:** The Beach (Little Women)
 
 **NAOMI**
 
@@ -754,7 +755,7 @@ Could there be more to, life, more to life than what I see here?
 
 ### 🎵 Stranger (Mahlon Addition)
 
-> 🎵 **MUSIC:** Harriot Smith
+🎵 **MUSIC:** Harriot Smith
 
 **MAHLON** — “Won’t you come inside?”
 
@@ -810,7 +811,7 @@ Strangers, they were merely strangers
 
 ### 🎵 Learning
 
-> 🎵 **MUSIC:** Poor Miss Taylor
+🎵 **MUSIC:** Poor Miss Taylor
 
 **MAHLON** — “Mahlon, if I may?”
 
@@ -944,7 +945,7 @@ to learn all that is there to know!
 
 ### 🎵 Is There a God?
 
-> 🎵 **MUSIC:** In My Dreams by Anastasia Instrumental
+🎵 **MUSIC:** In My Dreams by Anastasia Instrumental
 
 **RUTH**
 
@@ -1007,13 +1008,13 @@ God do you plan to maybe, use me
 
 > 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH, RAHAB, GRAN, SWING
 
-> 🎵 **MUSIC:** Summer is coming
+🎵 **MUSIC:** Summer is coming
 
 **NARRATOR**
 
 “Over the next few winter weeks and months, Ruth learns and eventually accepts the traditions and beliefs of Naomi and her sons. Fully embracing a life contrary to her own grim background. She and the family become endured to one another. Additionally, somewhat unsurprisingly, this leads to a romance between Ruth and Mahlon, bringing us to a very touching moment in our story.”  
 
-> ⏱ **TIME:** 0:42
+⏱ **TIME:** 0:42
 
 **MAHLON** — “Ruth, will you be my wife?”
 
@@ -1021,13 +1022,13 @@ God do you plan to maybe, use me
 **RUTH** — “Mahlon, of-course I will! There is no-one else I’d rather be with than you!”
 
 
-> ⏱ **TIME:** 0:55
+⏱ **TIME:** 0:55
 
 **NARRATOR**
 
 “Ruth and Mahlon, to the joy of Naomi and Chilean, are happily married in the early spring. Late May, another young lady comes into the lives of our dear characters, Orpah. She too is charmed by the walk and Faith the little Hebrew family leads, and it only takes a few brief months for herself and Chilean to also fall and merry. This brings us to August, and while the corn harvest is at its end, things finally seem to be going in Naomi’s direction.”  
 
-> ⏱ **TIME:** 1:38
+⏱ **TIME:** 1:38
 
 **NAOMI** — “I am so grateful! We have a full corn harvest, I have two beautiful new daughter-in-laws, and I can feel how happy you all make each other!”
 
@@ -1050,7 +1051,7 @@ God do you plan to maybe, use me
 **NAOMI** — “Blessings on your trip! I will have a fresh lamb to celibate the harvest!”
 
 
-> ⏱ **TIME:** 2:10
+⏱ **TIME:** 2:10
 
 **NARRATOR**
 
@@ -1078,7 +1079,7 @@ God do you plan to maybe, use me
 **MOAB THUG** — “Talk about what Hebrew?” Multiple thugs enter the stage.
 
 
-> 🎵 **MUSIC:** What Happened to the Women?
+🎵 **MUSIC:** What Happened to the Women?
 
 **MAHLON** — “Pardon me, we are just on our way to the market.”
 
@@ -1112,16 +1113,16 @@ God do you plan to maybe, use me
 **MOAB THUG** — “Ahhh, you’re too thin. But still one never knows until…” The lead thug signals to the others.
 
 
-> ⏱ **TIME:** 1:00
+⏱ **TIME:** 1:00
 
 *A thug grabs Mahlon by the shoulder and lays a blow to his face. Chilean pulls a knife to help aid, but is hit in the head with log, falling over, dead. Mahlon lays a blow, but is stabbed from behind.*
 
 **CHILION** — “Brother!”
 
-> ⏱ **TIME:** 1:18
+⏱ **TIME:** 1:18
 
 *Standing for a few moments, seeing Chiliean dead on the ground.*
-> ⏱ **TIME:** 1:35
+⏱ **TIME:** 1:35
 
 *Mahlon collapses dead.*
 
@@ -1132,12 +1133,12 @@ God do you plan to maybe, use me
 
 > 🎤 **MIC:** 🔊 HOT — NARR
 
-> 🎵 **MUSIC:** David & Alijah
+🎵 **MUSIC:** David & Alijah
 
 **NARRATOR**
 
 “Of all the dark deeds done on that October morning, this is the darkest. Of all the evil thoughts acted upon, this is the most vile. Mahlon and Chilion quickly bleed out of their wounds, lying motionless on the ground. Now, seizing their chance, the murderers hurriedly strip the corpses of what little valuables they have, fleeing the scene. Some time goes by. A Fulcher circles above.  
-> ⏱ **TIME:** 0:40
+⏱ **TIME:** 0:40
 
 Once the corpses are discovered, word quickly returns to Naomi, Ruth, and Orpah. All three break out in bitter wails, wrenching their garments, screaming as no women or child should ever scream.  
 Oh, how unforgiving, how bitter, careless, and cruel life can sometimes be. To lose your sons and your husbands, in this forsaken desert, leaves one hopelessly alone. No protector. No provider. No prospect of a good life.  
@@ -1145,12 +1146,12 @@ And so it is, the lot we find our beloved characters.
 
 *— END OF SONG —*
 
-> 💡 **LIGHTS:** Go Black
+💡 **LIGHTS:** Go Black
 
 ## The Flash Back—PART FIVE  
-> 🎵 **MUSIC:** Jesen
+🎵 **MUSIC:** Jesen
 >
-> 💡 **LIGHTS:** Fade On
+💡 **LIGHTS:** Fade On
 > 🎤 **MIC:** 🔊 HOT — ELIM, ABY, BOAZ
 
 *Scene opens with Naomi standing center stage, little Mahlon and Chilean come running into the scene, followed by Elimalek.*
@@ -1183,7 +1184,7 @@ And so it is, the lot we find our beloved characters.
 
 ### 🎵 Know My Sons
 
-> 🎵 **MUSIC:** Baby Mine
+🎵 **MUSIC:** Baby Mine
 
 **ELIMALEK**
 
@@ -1237,10 +1238,10 @@ Our God above
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 > - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 
-> 💡 **LIGHTS:** Fade Off
+💡 **LIGHTS:** Fade Off
 
 “Your God Shall Be My God”—PART SIX  
-> 💡 **LIGHTS:** Fade On
+💡 **LIGHTS:** Fade On
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, SWING
 
 **NAOMI** — “It is time I go my daughters.”
@@ -1277,7 +1278,7 @@ Our God above
 > - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
-> 🎵 **MUSIC:** Baby Mine Slow Version
+🎵 **MUSIC:** Baby Mine Slow Version
 
 **RUTH** — “Naomi, Mother, do not urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay. Your people will be my people and you’re God my God. Where you die I will die, and there I will be buried. May the Lord deal with me, be it ever so severely, if… …If even death separates you and me.”
 
@@ -1298,7 +1299,7 @@ Our God above
 
 ### 🎵 God’s Plan
 
-> 🎵 **MUSIC:** In His Eyes
+🎵 **MUSIC:** In His Eyes
 
 **RUTH**
 
@@ -1419,7 +1420,7 @@ Everything worth living for is there in God’s plan
 
 *— END OF SONG —*
 
-> 💡 **LIGHTS:** Go black
+💡 **LIGHTS:** Go black
 > 🎤 **MIC:** 🔇 ALL MUTED
 
 ---
@@ -1428,8 +1429,8 @@ Everything worth living for is there in God’s plan
 
 ---
 
-> 🎵 **MUSIC:** Emma Suite
+🎵 **MUSIC:** Emma Suite
 >
-> 💡 **LIGHTS:** Fade back on
+💡 **LIGHTS:** Fade back on
 
 (1 hour into the drama)  
