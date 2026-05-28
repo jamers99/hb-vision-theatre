@@ -44,7 +44,7 @@
 
 *The crowd disperses.*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, RUTH, ABY
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, RAHAB, ELIZ, ABY
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -146,7 +146,7 @@
 
 **RAHAB AND ELIZABETH LEAVE**
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
 
 **NAOMI** — “Shalom… I am sorry for Elizabeth, she is a good woman, though if my memory does not forsake me, she has always been a bit nosy.”
 
@@ -220,7 +220,7 @@ She won’t last long, she’ll call it the quits
 
 **HANNAH** — “The secrete is safe with me.”
 
-> 🎤 **MIC:** 🔊 ELIZ, ABY, SWING, **GRAN**
+> 🎤 **MIC:** 🔊 ELIZ, **GRAN**, ABY, SWING
 
 **HANNAH**
 
@@ -308,7 +308,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, ABY
+> 🎤 **MIC:** 🔊 HOT — RUTH, GRAN, ABY, SWING
 
 **DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 
@@ -345,7 +345,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *(All the ladies smile at Ruth)*
 
-> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, ABY, **BOAZ**
+> 🎤 **MIC:** 🔊 HOT — RUTH, **BOAZ**, GRAN, ABY, SWING
 
 **BOAZ** — “The Lord be with you”
 
@@ -464,7 +464,7 @@ Did you see the way they looked dear?
 
 **ELIZABETH** — “Hmmm”
 
-> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY, ELIM, BOAZ, RAHAB (pit), GRAN, SWING
+> 🎤 **MIC:** 🔊 HOT - ELIM, BOAZ, RAHAB (pit), ELIZ, GRAN, ABY, SWING
 
 *(Group Ensemble) (Abigail on the echo)*  
 Did you hear the way he looked dear  
@@ -569,7 +569,7 @@ Love is in the air
 
 🎵 **MUSIC:** Mrs. Elton Arrives At Hartfield
 
-> 🎤 **MIC:** 🔊 HOT — RAHAB, ELIM **& whoever is singing?**
+> 🎤 **MIC:** 🔊 HOT — ELIM, RAHAB **& whoever is singing?**
 
 **RAHAB** — “How Odd. How exciting. Servants! Everyone gather together, I have for you a new command”
 
@@ -591,7 +591,7 @@ We will follow the command
 
 *— END OF MUSIC —*
 
-> 🎤 **MIC:** 🔊 HOT — RAHAB, RUTH, ELIM
+> 🎤 **MIC:** 🔊 HOT — RUTH, ELIM, RAHAB
 
 **RAHAB** — “Shhh, everyone act normal! Here comes Ruth! Oh Ruth, don’t glean over there with them. Glean over here, you will find much more to glean over here.”
 
@@ -628,7 +628,7 @@ We will follow the command
 ## Naomi’s Plan—PART FIVE
 
 🎵 **MUSIC:** Miss Potter
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, NAOMI
 
 **NARRATOR**
 
@@ -702,7 +702,7 @@ This brings us to the present hour. The harvest is in its final throws, and Naom
 ### 🎵 Falling
 
 🎵 **MUSIC:** Karaoke Time! - Something there - Beauty and the beast (YouTube)
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, BOAZ, RAHAB
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, BOAZ, RAHAB
 
 **RUTH**
 
@@ -769,7 +769,7 @@ I think I maybe, just maybe, falling too
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
 
 **RUTH** — “So what am I to do?”
 
@@ -796,7 +796,7 @@ I think I maybe, just maybe, falling too
 ## The Threshing Floor—PART SIX 
 
 🔊 **SOUND:** Grass Hoppers
-> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, BOAZ
+> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, BOAZ
 
 *“So she went down to the threshing floor and did everything her mother-in-law had instructed her to do. When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him. In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!” (Ruth 3:6-8).*
 
@@ -835,7 +835,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 ## The Accord—PART SEVEN
 
-> 🎤 **MIC:** 🔊 HOT — BOAZ, ELIM, SWING
+> 🎤 **MIC:** 🔊 HOT — ELIM, BOAZ, SWING
 
 *Scene opens with Boaz and ten village leaders collected together to witness the transaction.*
 
@@ -955,7 +955,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 *Scene switches to Naomi and Ruth.*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
 
 **NAOMI** — “Sit down Ruth, you're pacing a valley in the floor.”
 
@@ -1232,7 +1232,7 @@ All this said, the greatest act of hope is still yet to to be revealed. You see,
 
 🎵 **MUSIC:** Days in the Sun (Youtube)
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, BOAZ, RUTH, RAHAB
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, BOAZ, RAHAB
 
 **NAOMI**
 

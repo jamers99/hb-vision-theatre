@@ -272,7 +272,7 @@ Welcome to our home of Bethlehem
 
 **ELIMALEK** — “Let us talk about it later dear. Now, we shall take passover, thank God for provision and the land He has given us. Mahalon, Chilean, passover is prepared.” 
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, **ABY, BOAZ**
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, **BOAZ**, GRAN, **ABY**
 
 *Mahlon and Chilean rush in to the table.*
 
@@ -640,7 +640,7 @@ God please grant me just another dawn
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
 
 **NAOMI** — “That was a brave thing you did. Standing up to a Moabite prince…”
 
@@ -742,7 +742,7 @@ Could there be more to, life, more to life than what I see here?
 
 ## Learning—PART TWO
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GRAN, NARR
+> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, NAOMI, RAHAB, GRAN
 
 **NAOMI** — “Dinner is ready! Quickly, light the candles, the young lady should be here any moment.”
 
@@ -1012,7 +1012,7 @@ God do you plan to maybe, use me
 
 ## Mahlon and Chilion’s Death—PART FOUR
 
-> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, RAHAB
+> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, RAHAB
 
 🎵 **MUSIC:** Summer is coming
 
@@ -1068,7 +1068,7 @@ God do you plan to maybe, use me
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RAHAB, GRAN, GREG
+> 🎤 **MIC:** 🔊 HOT — RAHAB, GREG, GRAN
 
 **CHILION** — “Brother did you ever imagine?”
 
@@ -1161,7 +1161,7 @@ And so it is, the lot we find our beloved characters.
 🎵 **MUSIC:** Jesen
 >
 💡 **LIGHTS:** Fade On
-> 🎤 **MIC:** 🔊 HOT — ELIM, ABY, BOAZ
+> 🎤 **MIC:** 🔊 HOT — ELIM, BOAZ, ABY
 
 *Scene opens with Naomi standing center stage, little Mahlon and Chilean come running into the scene, followed by Elimalek.*
 
@@ -1229,7 +1229,7 @@ Always near to hold you close, as His own
 
 *Elimnalek looks to Naomi.*
 
-> 🎤 **MIC:** 🔊 HOT — **NARR**, ELIM, ABY, BOAZ
+> 🎤 **MIC:** 🔊 HOT — **NARR**, ELIM, BOAZ, ABY
 
 **ELIMALEK**
 
@@ -1253,7 +1253,7 @@ Our God above
 
 💡 **LIGHTS:** Fade On
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, SWING
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, SWING
 
 **NAOMI** — “It is time I go my daughters.”
 
@@ -1288,7 +1288,7 @@ Our God above
 > 🎤 **MIC:** SWAP 🔀
 > - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
 
 🎵 **MUSIC:** Baby Mine Slow Version
 
