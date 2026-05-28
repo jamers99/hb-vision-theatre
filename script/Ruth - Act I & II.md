@@ -236,7 +236,7 @@ Welcome to our home of Bethlehem
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH04 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
@@ -270,7 +270,13 @@ Welcome to our home of Bethlehem
 **GRANNY** — “I can hear you darling. And yes, it is good I walk, soak in some of that scorching desert sun, makes my skin so nice and leathery.”
 
 
-**ELIMALEK** — “Let us talk about it later dear. Now, we shall take passover, thank God for provision and the land He has given us. Mahalon, Chilean, passover is prepared.” Mahlon and Chilean rush in to the table. “Let us pray. Adonai, Yahweh, let us break and eat Lamb before You in a worthy manner, that we be pure and Holy before our Creator. Bless this provision to our bodies, and thank you for taking us out of Egypt many generations ago. Amen.”
+**ELIMALEK** — “Let us talk about it later dear. Now, we shall take passover, thank God for provision and the land He has given us. Mahalon, Chilean, passover is prepared.” 
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, **ABY, BOAZ**
+
+*Mahlon and Chilean rush in to the table.*
+
+“Let us pray. Adonai, Yahweh, let us break and eat Lamb before You in a worthy manner, that we be pure and Holy before our Creator. Bless this provision to our bodies, and thank you for taking us out of Egypt many generations ago. Amen.”
 
 
 **GRANNY** — “And may this be my final passover meal!”
@@ -327,7 +333,7 @@ Someone, to save us from us
 
 ## The Famine—PART TWO
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN, ABY, BOAZ
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN
 
 ### 🎵 The Famine
 
@@ -423,8 +429,6 @@ A home they can live in, despite the despair
 
 (15 minuets into the drama)  
 
-> 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
-
 ### 🎵 Stay, I pray you
 
 🎵 **MUSIC:** Stay I Prayer You
@@ -437,6 +441,8 @@ Please now let us wait here
 Stay, I pray you  
 Let me have a moment  
 Let me say goodbye  
+
+> 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
 
 *(Ensemble Hums as they enter the stage)*  
 To bridge and river, forest and waterfall  
@@ -493,7 +499,7 @@ I’ll bless my homeland, till I die.
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN, ABY, BOAZ *(ensemble exits after song)*
+> 🎤 **MIC:** 🔊 HOT — NARR *(ensemble exits after song)*
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH14 GRAN: Alea Glick (Granny) → Joshua Harrison (Chilion Adult)
@@ -502,7 +508,7 @@ I’ll bless my homeland, till I die.
 
 🎵 **MUSIC:** Who I Want to Be (played until 0:40)
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN, ABY, BOAZ
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, ABY
 
 **NARRATOR**
 
@@ -607,7 +613,7 @@ God please grant me just another dawn
 
 ## RUTH—PART ONE
 
-> 🎤 **MIC:** 🔊 ALL HOT
+> 🎤 **MIC:** 🔊 HOT — RUTH, GREG
 
 ### 🎵 MOAB
 
@@ -1006,7 +1012,7 @@ God do you plan to maybe, use me
 
 ## Mahlon and Chilion’s Death—PART FOUR
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH, RAHAB, GRAN, SWING
+> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, RAHAB
 
 🎵 **MUSIC:** Summer is coming
 
@@ -1025,6 +1031,8 @@ God do you plan to maybe, use me
 ⏱ **TIME:** 0:55
 
 **NARRATOR**
+
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RAHAB, GRAN, SWING
 
 “Ruth and Mahlon, to the joy of Naomi and Chilean, are happily married in the early spring. Late May, another young lady comes into the lives of our dear characters, Orpah. She too is charmed by the walk and Faith the little Hebrew family leads, and it only takes a few brief months for herself and Chilean to also fall and merry. This brings us to August, and while the corn harvest is at its end, things finally seem to be going in Naomi’s direction.”  
 
@@ -1047,6 +1055,7 @@ God do you plan to maybe, use me
 
 **ORPAH** — “Be safe my husband!”
 
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI
 
 **NAOMI** — “Blessings on your trip! I will have a fresh lamb to celibate the harvest!”
 
@@ -1059,7 +1068,7 @@ God do you plan to maybe, use me
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RAHAB, GRAN, GREG *(Mahlon & Chilion go to market; Naomi, Ruth, Orpah exit)*
+> 🎤 **MIC:** 🔊 HOT — RAHAB, GRAN, GREG
 
 **CHILION** — “Brother did you ever imagine?”
 
@@ -1240,8 +1249,10 @@ Our God above
 
 💡 **LIGHTS:** Fade Off
 
-“Your God Shall Be My God”—PART SIX  
+## “Your God Shall Be My God”—PART SIX  
+
 💡 **LIGHTS:** Fade On
+
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, SWING
 
 **NAOMI** — “It is time I go my daughters.”
@@ -1276,6 +1287,7 @@ Our God above
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
+
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 🎵 **MUSIC:** Baby Mine Slow Version
