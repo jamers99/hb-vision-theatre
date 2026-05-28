@@ -236,10 +236,10 @@ Welcome to our home of Bethlehem
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, GRAN
+> 🎤 **MIC:** 🔊 HOT — ELIM, NAOMI, GRAN
 
 > 🎤 **MIC:** SWAP 🔀
-> - CH04 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
+> - CH09 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
 > - CH11 RAHAB: Zoe Yoder (Rahab) → Jamian Esh (Mahlon Adult)
 > - CH15 ABY: Hannah Flaud (Abigail) → Hudson Yoder (Little Mahlon)
 > - CH16 SWING: Emily Shirk (Hannah) → Kaley Shirk (Orpah)
@@ -272,7 +272,7 @@ Welcome to our home of Bethlehem
 
 **ELIMALEK** — “Let us talk about it later dear. Now, we shall take passover, thank God for provision and the land He has given us. Mahalon, Chilean, passover is prepared.” 
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM, **BOAZ**, GRAN, **ABY**
+> 🎤 **MIC:** 🔊 HOT — ELIM, NAOMI, **BOAZ**, GRAN, **ABY**
 
 *Mahlon and Chilean rush in to the table.*
 
@@ -333,7 +333,7 @@ Someone, to save us from us
 
 ## The Famine—PART TWO
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, GRAN
+> 🎤 **MIC:** 🔊 HOT — ELIM, NARR, NAOMI, GRAN
 
 ### 🎵 The Famine
 
@@ -508,7 +508,7 @@ I’ll bless my homeland, till I die.
 
 🎵 **MUSIC:** Who I Want to Be (played until 0:40)
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, ELIM, ABY
+> 🎤 **MIC:** 🔊 HOT — ELIM, NARR, NAOMI, ABY
 
 **NARRATOR**
 
@@ -519,7 +519,7 @@ Driven by desperation, Elimalek, Naomi, and their two sons set out on the long, 
 
 **MAHLON** — “Yes father!” Both boys dart off stage.
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, ELIM
+> 🎤 **MIC:** 🔊 HOT — ELIM, NAOMI
 
 **NAOMI** — “Here my husband, take some bread.”
 
@@ -640,7 +640,7 @@ God please grant me just another dawn
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **NAOMI** — “That was a brave thing you did. Standing up to a Moabite prince…”
 
@@ -742,7 +742,7 @@ Could there be more to, life, more to life than what I see here?
 
 ## Learning—PART TWO
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, NAOMI, RAHAB, GRAN
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH, RAHAB, GRAN
 
 **NAOMI** — “Dinner is ready! Quickly, light the candles, the young lady should be here any moment.”
 
@@ -1012,7 +1012,7 @@ God do you plan to maybe, use me
 
 ## Mahlon and Chilion’s Death—PART FOUR
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, RAHAB
+> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, RAHAB
 
 🎵 **MUSIC:** Summer is coming
 
@@ -1229,7 +1229,7 @@ Always near to hold you close, as His own
 
 *Elimnalek looks to Naomi.*
 
-> 🎤 **MIC:** 🔊 HOT — **NARR**, ELIM, BOAZ, ABY
+> 🎤 **MIC:** 🔊 HOT — ELIM, **NARR**, BOAZ, ABY
 
 **ELIMALEK**
 
@@ -1254,7 +1254,7 @@ Our God above
 
 💡 **LIGHTS:** Fade On
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, SWING
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, SWING
 
 **NAOMI** — “It is time I go my daughters.”
 
@@ -1289,7 +1289,7 @@ Our God above
 > 🎤 **MIC:** SWAP 🔀
 > - CH16 SWING: Kaley Shirk (Orpah) → Emily Shirk (Hannah)
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 🎵 **MUSIC:** Baby Mine Slow Version
 

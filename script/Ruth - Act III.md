@@ -44,7 +44,7 @@
 
 *The crowd disperses.*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, RAHAB, ELIZ, ABY
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, ELIZ, ABY
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -146,7 +146,7 @@
 
 **RAHAB AND ELIZABETH LEAVE**
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **NAOMI** — “Shalom… I am sorry for Elizabeth, she is a good woman, though if my memory does not forsake me, she has always been a bit nosy.”
 
@@ -591,7 +591,7 @@ We will follow the command
 
 *— END OF MUSIC —*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, ELIM, RAHAB
+> 🎤 **MIC:** 🔊 HOT — ELIM, RUTH, RAHAB
 
 **RAHAB** — “Shhh, everyone act normal! Here comes Ruth! Oh Ruth, don’t glean over there with them. Glean over here, you will find much more to glean over here.”
 
@@ -628,7 +628,7 @@ We will follow the command
 ## Naomi’s Plan—PART FIVE
 
 🎵 **MUSIC:** Miss Potter
-> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH
 
 **NARRATOR**
 
@@ -702,7 +702,7 @@ This brings us to the present hour. The harvest is in its final throws, and Naom
 ### 🎵 Falling
 
 🎵 **MUSIC:** Karaoke Time! - Something there - Beauty and the beast (YouTube)
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, BOAZ, RAHAB
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, BOAZ, RAHAB
 
 **RUTH**
 
@@ -769,7 +769,7 @@ I think I maybe, just maybe, falling too
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **RUTH** — “So what am I to do?”
 
@@ -796,7 +796,7 @@ I think I maybe, just maybe, falling too
 ## The Threshing Floor—PART SIX 
 
 🔊 **SOUND:** Grass Hoppers
-> 🎤 **MIC:** 🔊 HOT — RUTH, NARR, BOAZ
+> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, BOAZ
 
 *“So she went down to the threshing floor and did everything her mother-in-law had instructed her to do. When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him. In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!” (Ruth 3:6-8).*
 
@@ -955,7 +955,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 *Scene switches to Naomi and Ruth.*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 **NAOMI** — “Sit down Ruth, you're pacing a valley in the floor.”
 
@@ -967,7 +967,7 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 > 🎤 **MIC:** SWAP 🔀
 >
-> - CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
+> - CH04 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
 
 ### 🎵 Boaz’s Proposal
 
@@ -1232,7 +1232,7 @@ All this said, the greatest act of hope is still yet to to be revealed. You see,
 
 🎵 **MUSIC:** Days in the Sun (Youtube)
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, NAOMI, BOAZ, RAHAB
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, BOAZ, RAHAB
 
 **NAOMI**
 
