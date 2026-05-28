@@ -1244,6 +1244,7 @@ Our God above
 > 🎤 **MIC:** SWAP 🔀
 > - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
 > - CH10 BOAZ & **HEADSET**: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
+> - CH10 GREG & **HEADSET**: Greg Stoltzfoos (Moab Thug) → Derek Esh (Ensemble, Daniel)
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 > - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 

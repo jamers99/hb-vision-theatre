@@ -24,7 +24,7 @@
 | CH10 | BOAZ | Jonathan (Chrit) | Little Chilion (Canon) | Boaz (Chrit) |
 | CH11 | RAHAB | Rahab (Zoe) | Mahlon Adult (Jamian) | Rahab (Zoe) |
 | CH12 | ELIZ | Elizabeth (Olivia) | *(idle — mute)* | Elizabeth (Olivia) |
-| CH13 | GREG | Josh (Greg) | Moabite Prince / Thug (Greg) | *(idle — mute)* |
+| CH13 | GREG | Josh (Greg) | Moabite Prince / Thug (Greg) | Daniel (Derek Esh) |
 | CH14 | GRAN | Granny (Alea) | Chilion Adult (Joshua) | Eliza (Alea) → Delilah (Kaley) |
 | CH15 | ABY | Abigail (Hannah F.) | Little Mahlon (Hudson) | Abigail (Hannah F.) |
 | CH16 | SWING | Hannah (Emily) | Orpah (Kaley) | Hannah (Emily) → Israelite Leader (Alan) |
@@ -64,7 +64,7 @@
 | Actor | Role | Coverage |
 |---|---|---|
 | Canon Beiler | Little Chilion | Gets Chrit's headset + pack together at BOAZ swap |
-| Derek Esh | Daniel | Projects |
+| Derek Esh | Daniel | Get's Greg's headset at intermission |
 | Ashley Martin | Jenny | Pit mic |
 
 ## Quick Reference — Actor → Label
@@ -77,11 +77,11 @@
 | Bethany Miller | NARR (all acts) |
 | Canon Beiler | BOAZ — shares Chrit's headset (Act I, Act II flashback) |
 | Chrit Glick | BOAZ (Acts I, III) |
-| Derek Esh | pit mic (Act I) |
+| Derek Esh | Projects (Act I), GREG (Act III) |
 | Derek Stoltzfus | ELIM (all acts) |
 | Elsie Weldon | RUTH (Acts II–III) |
 | Emily Shirk | SWING (Act I opening, Act III early), ELIM (Act III late) |
-| Greg Stoltzfoos | GREG (all acts) |
+| Greg Stoltzfoos | GREG (Act I, Act II) |
 | Hannah Flaud | ABY (Acts I, III) |
 | Hudson Yoder | ABY (Act I, Act II flashback) |
 | Jamian Esh | RAHAB (Act II) |
