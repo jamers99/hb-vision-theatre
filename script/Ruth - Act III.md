@@ -189,9 +189,11 @@
 
 ### 🎵 Gossip Is Sin!
 
-**ELIZABETH** — “Shalom Abigail”
+🎵 **MUSIC:** Tumbalalaika
 
-**ABIGAIL** — “Shalom Elizabeth”
+**ELIZABETH** — “Shalom Abigail!”
+
+**ABIGAIL** — “Shalom Elizabeth!”
 
 
 **ELIZABETH**
@@ -249,7 +251,7 @@ Ruth that new girl, evil since youth
 She’s a menace, wicked to the core  
 She’ll be leaving soon, of that I am sure  
 
-**ELIZA, HANNAH, ABIGAIL, ELIZABETH**
+**DELILAH, HANNAH, ABIGAIL, ELIZABETH**
 
 Please listen, have you heard the news  
 Ruth is no good, I’ve seen all the clues  
@@ -320,25 +322,34 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 **RUTH** — “My name is Ruth.”
 
 
-**DELILAH** — “Naomi’s daughter-in-law, I have heard of you, the Moabite turned Hebrew.”
+**DELILAH** — “Oh I have heard of you, the Moabite turned Hebrew.”
 
 
 **HANNAH** — “I also have heard of you.”
 
 
-**JENNY** — “And I as well.” _(🎤: pit mic)_
+**LUCY** — “And I as well.” _(🎤: pit mic)_
+
+**SUSIE** — “I too have heard of you!”
+
+**CATHY & NANCY** — “And us.”
+
+**RUTH** — “Sounds like word gets around quick.”
 
 
-**RUTH** — “Sound like word gets around quick.”
-
-
-**DELILAH** — “It does. Tell me, is it true that your people sacrifice their young to the false gods of Moab?”
+**ABIGAIL** — “It does. Tell me, is it true that your people sacrifice their young to the gods of Moab?”
 
 
 **RUTH** — “In some cases. I have run from such a life. But God is redeeming my story, which I am forever grateful too.”
 
 
-**HANNAH** — “Such savages. Well I am glad you have escaped such a grim existence."
+**LUCY** — “What a horror!”
+
+**HANNAH** — “Such savages! Well I am glad you have escaped such a grim existence.”
+
+**ABIGAIL** — “I too! You must understand dear, here among us, despite the grim evils and horrors and grotesque and nasty crimes of your wretched and wicked evil people. Here, among God’s holy chosen people, you may find solace.”
+
+*(All the ladies smile at Ruth)*
 
 
 **BOAZ** — “The Lord be with you”
@@ -520,29 +531,13 @@ Love is in the air
 🎵 **MUSIC:** The Proposal (Under The Horse Chestnut Tree)
 > 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, RAHAB, GREG *(unmute RAHAB — back on stage)*
 
-**BOAZ** — “Ruth, come, eat with my workers.”
-
-
-*Rahab and some of the other workers watch.*
-
-**RUTH** — “Thank you sir.”
-
-
-**BOAZ** — “Call me Boaz”
-
-
-**RUTH** — “Boaz.”
-
-
-*Boaz steps away to instruct Rahab.*
-
 **BOAZ** — “Rahab! Mother! I need you to inform the men of a new instruction I have.”
 
 
-**RAHAB** — “Yes my son, and what might that be?”
+**RAHAB** — “Yes and what might that be?”
 
 
-**BOAZ** — “Inform Daniel to instruct the gleaners, to allow Ruth, the Moabite to glean amongst them.”
+**BOAZ** — “Inform Daniel to instruct the gleaners, to allow Ruth, the Moabite to glean among them.”
 
 
 **RAHAB** — “To glean amongst your workers? Isn’t that a bit unusual?”
@@ -551,7 +546,7 @@ Love is in the air
 **BOAZ** — “Yes, I know but it is no matter, she is to glean amongst them. Do not reproach her. She is also to drink from the fresh water that the men drink from! And to join me at lunch.”
 
 
-**RAHAB** — “Really? You want Ruth to drink from the workers fresh water, and to join you, my son, at lunch?”
+**RAHAB** — “Join you, my son, at lunch?”
 
 
 **BOAZ** — “Yes, and mother. I want you to have the men discreetly drop some of the bundles specifically for her, allowing her to glean a great deal of wheat.”
@@ -569,50 +564,38 @@ Love is in the air
 **BOAZ** — “Not if Ruth collects them…”
 
 
-**RAHAB** — “So specifically Ruth?”
+**RAHAB** — “Ohhhh, I see. It will be done at once at once my son.”
 
 
-**BOAZ** — “Specifically.”
+**BOAZ** — “Good, thank you.”
 
 
-**RAHAB** — “Specifically…. It will be done at once.”
+### 🎵 The Command
+
+🎵 **MUSIC:** Mrs. Elton Arrives At Hartfield
+
+**RAHAB** — “How Odd. How exciting. Servants! Everyone gather together, I have for you a new command”
+
+Here’s an ask that is kinda strange  
+It is odd, its well, a change  
+I have a brand new command  
+
+“Listen, everyone. You all have seen the new girl Ruth; she’s a foreigner and has shown great courage. Boaz has seen that, and has some new instructions for us all. Beware, these may come across as a little odd. However, we will do just as Boaz asks. So, in regards to the widow Ruth we are to:”  
+
+Gather grain, drop it close so she sees and (How odd)  
+Let her glean, let her close, so she can and (How strange)  
+Understand to be good, and be kind and (We will)  
+That’s the command (Do)  
+
+*(Everyone)*  
+That’s an ask that is kinda strange  
+It is odd, its well, a change  
+We will follow the command  
+
+*— END OF MUSIC —*
 
 
-**BOAZ** — “Good”
-
-
-*Boaz leaves the stage at music spot of (2:10).*
-
-**RAHAB** — “Daniel! Daniel! Come quick!”
-
-
-**DANIEL** — “Yes Rahab, what is it?”
-
-
-**RAHAB** — “Boaz has a new instruction! Listen, the gleaners are to glean the wheat, allowing Ruth the Moabite, to glean amidst them!”
-
-
-**DANIEL** — “Glean amidst the workers? Isn’t that a little odd?”
-
-
-**RAHAB** — “You think that’s odd! Wait till you hear the rest. She is to drink from their water, join Boaz, my son! for lunch, and the gleaners are to purposely, though with discretion, drop bundles of wheat where specifically Ruth can collect them.”
-
-
-**DANIEL** — “Specifically Ruth?”
-
-
-**RAHAB** — “Specifically”
-
-
-**DANIEL** — “The rumors are true then! I’ll ensure they do it with the greatest discretion! This is wonderful news!”
-
-
-**RAHAB** — “Now go, let us not waist another moment.”
-
-*— END OF SONG —*
-
-
-**RAHAB** — “Oh Ruth, don’t glean over there with them. Glean over here, you will find much more to glean over here.”
+**RAHAB** — “Shhh, everyone act normal! Here comes Ruth! Oh Ruth, don’t glean over there with them. Glean over here, you will find much more to glean over here.”
 
 
 **RUTH** — “I thought…”
@@ -1039,7 +1022,7 @@ The rumors never end!
 
 I heard it from the bakers wife?  
 It’s strange, did he really intend?  
-**ELIZABETH** — “A wedding may be near!”
+**ISRAELITE LEADER** — “A wedding may be near!”
 
 The rumors never end!  
 
@@ -1142,7 +1125,7 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 *Everyone claps and cheers!*
 
-**NAOMI** — “Blessed be the name of the Lord! For He is our great provider! Ruth God has used you in my life, to teach me of His wonderful goodness and timing. To have you by my side, no matter the hardship, and the pain, has given me a new life. And Boaz, your acts of kindness and compassion, have touched both myself and my daughter, in ways you may never know. Thank you son, may God bless your marriage and may I soon be a grandmother!”
+**NAOMI** — “Oh thank you, thank you, our fearless leader. Now, I would like to also give a blessing... Blessed be the name of the Lord! For He is our great provider! Ruth God has used you in my life, to teach me of His wonderful goodness and timing. To have you by my side, no matter the hardship, and the pain, has given me a new life. And Boaz, your acts of kindness and compassion, have touched both myself and my daughter, in ways you may never know. Thank you son, may God bless your marriage and may I soon be a grandmother!”
 
 *People laugh and clap.*
 
@@ -1155,7 +1138,7 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 //todo mic levels
 
-**RAHAB (DANIEL)**
+**RAHAB (NAOMI)**
 
 “Boaz and Ruth this is for you”  
 
@@ -1285,7 +1268,7 @@ So that we’re better than before
 How it lead me to know our Lord (Lord, ooooooooh)  
 I know God is close to you (Oh we thank you)  
 
-*(Naomi, Boaz, Ruth, Rehab)*
+*(Naomi, Ruth, Rahab, Boaz)*
 He’s calling us, He’ll get you through  
 
 *(Entire Cast)*
@@ -1298,3 +1281,7 @@ We know you’ll come through
 **NARRATOR**
 
 The End  
+
+💡 **LIGHTS:** Fade out
+
+*(We have just completed 1:50 minutes of drama run time)*
