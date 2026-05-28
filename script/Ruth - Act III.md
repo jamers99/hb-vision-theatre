@@ -435,12 +435,11 @@ Boaz—“Please, do not go into another field to glean, but keep near to the wo
 
 *Boaz leads Ruth away from center stage. Abigail and Elizabeth step center stage.*
 
-> 🎤 **MIC:** 🔊 ALL HOT *(ensemble enters for song)*
-TODO not right
+> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY
+
+## Love is in The Air—PART FOUR
 
 ### 🎵 Love is in the Air
-
-> 🎤 **MIC:** Keep RAHAB hot for pit support
 
 “Shalom Abigail”  
 “Shalom Elizabeth”  
@@ -465,6 +464,7 @@ Did you see the way they looked dear?
 
 **ELIZABETH** — “Hmmm”
 
+> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY, ELIM, BOAZ, RAHAB (pit), GREG, GRAN, SWING
 
 *(Group Ensemble) (Abigail on the echo)*  
 Did you hear the way he looked dear  
@@ -515,14 +515,16 @@ Love is in the air
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** Mute RAHAB (in pit)
->
 💡 **LIGHTS:** Lights go black
->
+
+> 🎤 **MIC:** 🔊 HOT — BOAZ, RAHAB
+
+> 🎤 **MIC:** SWAP 🔀
+> - CH16 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
+
 💡 **LIGHTS:** Lights fade on
->
+
 🎵 **MUSIC:** The Proposal (Under The Horse Chestnut Tree)
-> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, RAHAB, GREG *(unmute RAHAB — back on stage)*
 
 **BOAZ** — “Rahab! Mother! I need you to inform the men of a new instruction I have.”
 
@@ -567,6 +569,8 @@ Love is in the air
 
 🎵 **MUSIC:** Mrs. Elton Arrives At Hartfield
 
+> 🎤 **MIC:** 🔊 HOT — RAHAB, ELIM **& whoever is singing?**
+
 **RAHAB** — “How Odd. How exciting. Servants! Everyone gather together, I have for you a new command”
 
 Here’s an ask that is kinda strange  
@@ -587,6 +591,7 @@ We will follow the command
 
 *— END OF MUSIC —*
 
+> 🎤 **MIC:** 🔊 HOT — RAHAB, RUTH, ELIM
 
 **RAHAB** — “Shhh, everyone act normal! Here comes Ruth! Oh Ruth, don’t glean over there with them. Glean over here, you will find much more to glean over here.”
 
@@ -828,9 +833,6 @@ Ruth sleeps at the threshing floor that night, once early morning comes, while i
 
 Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, knowing that Boaz is hurriedly making the proper preparations for their hopeful marriage.  
 
-> 🎤 **MIC:** SWAP 🔀
-> - CH16 SWING — Emily Shirk (Hannah) → Alan Miller (Israelite Leader)
-
 ## The Accord—PART SEVEN
 
 > 🎤 **MIC:** 🔊 HOT — BOAZ, ELIM, SWING
@@ -963,6 +965,9 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 **NAOMI** — “Oh Ruth, Boaz is wise, he will get what he is aiming for. And If I’m not mistaken, I just saw him pass by the window.”
 
+> 🎤 **MIC:** SWAP 🔀
+>
+> - CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
 
 ### 🎵 Boaz’s Proposal
 
@@ -989,19 +994,17 @@ They both hug with joy that they will get married
 
 💡 **LIGHTS:** Lights Go black
 
-> 🎤 **MIC:** SWAP 🔀
->
-> - CH09 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
-
 ## Rumors—PART EIGHT 
 
 ### 🎵 Rumors
 
-🎵 **MUSIC:** Press Conference Instrumental from Anastasia
-> 🎤 **MIC:** 🔊 ALL HOT
-//todo who are the highlights
-
 > 🎤 **MIC:** Turn up monitors
+
+🎵 **MUSIC:** Press Conference Instrumental from Anastasia
+
+> 🎤 **MIC:** 🔊 ALL HOT
+
+> 🎤 **MIC:** 🔊 PRIORITY: RAHAB
 
 *(Everyone enters yelling)*  
 
@@ -1009,12 +1012,18 @@ They both hug with joy that they will get married
 
 Did you all hear what I did hear?  
 Is it true, maybe you know when?  
+
+> 🎤 **MIC:** 🔊 PRIORITY: ELIZ
+
 **ELIZABETH** — “A wedding may be near!”
 
 The rumors never end!  
 
 I heard it from the bakers wife?  
 It’s strange, did he really intend?  
+
+> 🎤 **MIC:** 🔊 PRIORITY: SWING
+
 **ISRAELITE LEADER** — “A wedding may be near!”
 
 The rumors never end!  
@@ -1041,6 +1050,9 @@ He looked to her, she looked to him, and we all heard and awwwwd
 **ENSEMBLE**
 
 Do you know when they’ll wed?  
+
+> 🎤 **MIC:** 🔊 PRIORITY: ABY
+
 **ABIGAIL** — I knew these facts, I clearly said!
 
 
@@ -1056,6 +1068,7 @@ Will they be married soon
 
 **RAHAB** — Yes ooo
 
+> 🎤 **MIC:** 🔊 PRIORITY: ELIM
 
 **HANNAH** — Is this a lie or is it real?
 
@@ -1106,8 +1119,8 @@ I wonder could it be, they marry!?
 ## The Wedding—PART NINE
 
 🎵 **MUSIC:** You Must Sample This Tart
-> 🎤 **MIC:** 🔊 ALL HOT
-//todo not true
+
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RAHAB, SWING
 
 **NARRATOR**
 
@@ -1129,7 +1142,7 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 
 🎵 **MUSIC:** Unzer Nigun Our Melody
 
-//todo mic levels
+> 🎤 **MIC:** 🔊 HOT - NAOMI, RAHAB
 
 **RAHAB (NAOMI)**
 
@@ -1138,6 +1151,8 @@ And so our characters hurriedly gather for the wonderful and anticipated matrimo
 When you’re a child, so little you do know (Little you must know)  
 You are playing but then you fall and scape your elbow  
 Seeing you cry there, mother takes your hand, and she says she must teach you what to do  
+
+> 🎤 **MIC:** 🔊 ALL HOT 
 
 *((Chorus) Rehab starts to dance)*  
 You learn to dance, just dance, don’t miss this special chance  
@@ -1177,6 +1192,8 @@ I know our God has given us this special skill
 
 ⏱ **TIME:** 0:25
 
+> 🎤 **MIC:** 🔊 PRIORITY: ELIZ, ABY
+
 **ELIZABETH** — “Oh Abigail, what a fun wedding this is!”
 
 
@@ -1195,22 +1212,28 @@ I know our God has given us this special skill
 
 *Everyone Dances.*
 
+> 🎤 **MIC:** 🔇 ALL MUTED
+
 ## THE END—PART TEN
 
 🎵 **MUSIC:** I Do Nothing Every Day
+
+> 🎤 **MIC:** 🔊 HOT — NARR
 
 **NARRATOR**
 
 For the past hour and half we have witnessed our characters experience both heavy loss and provision.  
 Think back to Elimalek's internal struggle, as he, amidst sorrow and poverty, lead his family from Bethlehem to Moab. Or remember the intense pain Naomi feels, when she looses first her husband and later her two sons, to the unforgiving grip of death. Or what about the Hope enduring through Ruth, a stranger of unwavering loyalty and faith, committing to hold to Naomi’s side, no matter what circumstances may arise. After which emerges Boaz, it is through his benevolence that hope and mercy is granted to our dear widows, touching them in ways that cannot be explained through mere words.  
 All this said, the greatest act of hope is still yet to to be revealed. You see, Boaz and Ruth bear a son, Obed, through which comes the lineage of King David—a line extending to our Lord and Savior, Jesus Christ. And there lyes the true hope. You see, Jesus’s birth came through the lineage of Boaz, son of Rehab, a Jerichonite who was grafted into the Jewish people, and Ruth, and while her parents are not revealed, they were certainly Moabite, both Enemies of God, made right through faith. And so we come to the closing of our story.  
+
 🎵 **MUSIC:** End at 2:11
 
 ### 🎵 A New Day’s Begun
 
 🎵 **MUSIC:** Days in the Sun (Youtube)
 
-//todo mic mute notes
+> 🎤 **MIC:** 🔊 HOT — NAOMI, BOAZ, RUTH, RAHAB
+
 **NAOMI**
 
 “We must never take for granted, what God has given us”  
@@ -1263,6 +1286,8 @@ I know God is close to you (Oh we thank you)
 
 *(Naomi, Ruth, Rahab, Boaz)*
 He’s calling us, He’ll get you through  
+
+> 🎤 **MIC:** 🔊 ALL HOT 
 
 *(Entire Cast)*
 A new days begun  
