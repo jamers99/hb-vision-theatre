@@ -24,7 +24,7 @@
 | CH10 | BOAZ | Jonathan (Chrit) | Little Chilion (Canon) | Boaz (Chrit) |
 | CH11 | RAHAB | Rahab (Zoe) | Mahlon Adult (Jamian) | Rahab (Zoe) |
 | CH12 | ELIZ | Elizabeth (Olivia) | *(idle — mute)* | Elizabeth (Olivia) |
-| CH13 | GREG | Josh (Greg) | Moabite Prince / Thug (Greg) | Daniel (Greg) |
+| CH13 | GREG | Josh (Greg) | Moabite Prince / Thug (Greg) | *(idle — mute)* |
 | CH14 | GRAN | Granny (Alea) | Chilion Adult (Joshua) | Eliza (Alea) → Delilah (Kaley) |
 | CH15 | ABY | Abigail (Hannah F.) | Little Mahlon (Hudson) | Abigail (Hannah F.) |
 | CH16 | SWING | Hannah (Emily) | Orpah (Kaley) | Hannah (Emily) → Israelite Leader (Alan) |

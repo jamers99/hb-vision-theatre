@@ -464,7 +464,7 @@ Did you see the way they looked dear?
 
 **ELIZABETH** — “Hmmm”
 
-> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY, ELIM, BOAZ, RAHAB (pit), GREG, GRAN, SWING
+> 🎤 **MIC:** 🔊 HOT - ELIZ, ABY, ELIM, BOAZ, RAHAB (pit), GRAN, SWING
 
 *(Group Ensemble) (Abigail on the echo)*  
 Did you hear the way he looked dear  
@@ -972,13 +972,13 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 ### 🎵 Boaz’s Proposal
 
 🎵 **MUSIC:** Ballroom Waltz
-> 🎤 **MIC:** 🔊 HOT — NARR, RAHAB, GREG
+> 🎤 **MIC:** 🔊 HOT — NARR, RAHAB
 
 **NARRATOR**
 
 “This next scene happens as follows”  
 
-**NARRATOR, RAHAB, (DANIEL)**
+**NARRATOR** *(Ensemble echos)*
 
 Boaz does, go on one knee (on one knee)  
 He does ask, if she would be (Ruth would be)  
