@@ -64,7 +64,7 @@
 | Actor | Role | Coverage |
 |---|---|---|
 | Canon Beiler | Little Chilion | Gets Chrit's headset + pack together at BOAZ swap |
-| Derek Esh | James | Pit mic |
+| Derek Esh | Daniel | Projects |
 | Ashley Martin | Jenny | Pit mic |
 
 ## Quick Reference — Actor → Label

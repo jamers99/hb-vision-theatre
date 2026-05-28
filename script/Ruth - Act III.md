@@ -1,19 +1,10 @@
 # Ruth the Musical — Act III
 
----
-
-> 🎤 **MIC Overview**
->
-> **No pack:** Ashley M. (Jenny) *(pit mic)*
->
-> **Zoe (RAHAB):** Hot during Love is in the Air for pit support; unmute again after lights fade on for The Proposal scene
-
----
-
 ## Returning Home—PART ONE 
 
 🎵 **MUSIC:** Someone Loves Us
-> 🎤 **MIC:** 🔊 ALL HOT
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, ABY
 
 *Scene opens with Naomi and Ruth walking back into Bethlehem for the first time.*
 ⏱ **TIME:** 0:12
@@ -53,7 +44,7 @@
 
 *The crowd disperses.*
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, RUTH
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, ELIZ, RUTH, ABY
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -185,7 +176,7 @@
 
 *The scene changes focus to Elizabeth walking to Abigails home.*
 
-> 🎤 **MIC:** 🔊 ALL HOT *(ensemble joins during the song)*
+> 🎤 **MIC:** 🔊 ELIZ, ABY, SWING
 
 ### 🎵 Gossip Is Sin!
 
@@ -229,6 +220,7 @@ She won’t last long, she’ll call it the quits
 
 **HANNAH** — “The secrete is safe with me.”
 
+> 🎤 **MIC:** 🔊 ELIZ, ABY, SWING, **GRAN**
 
 **HANNAH**
 
@@ -245,6 +237,8 @@ She is a crook, I know I’m not wrong
 
 
 **ELIZA**
+
+> 🎤 **MIC:** 🔊 ALL HOT *(ensemble joins during the song)*
 
 Don’t spread this, I know it’s the truth  
 Ruth that new girl, evil since youth  
@@ -314,7 +308,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH
+> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, ABY
 
 **DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 
@@ -327,7 +321,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 **HANNAH** — “I also have heard of you.”
 
-
+//todo these new actors need mics? 
 **LUCY** — “And I as well.” _(🎤: pit mic)_
 
 **SUSIE** — “I too have heard of you!”
@@ -351,10 +345,9 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *(All the ladies smile at Ruth)*
 
+> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, ABY, **BOAZ**
 
 **BOAZ** — “The Lord be with you”
-
-> 🎤 **MIC:** 🔊 HOT — GRAN, SWING, RUTH, BOAZ
 
 **THE GLEANERS** — “The Lord bless you!”
 
@@ -373,11 +366,11 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *The gleaners move to a seperate spot to eat.*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ, GREG
+> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ
 
 **BOAZ** — “Daniel? Who’s young women is this?”
 
-
+*(🎤 projected to BOAZ's mic)*
 **DANIEL** — “Ruth? She is Naomi’s daughter-in-law, now widow, who came back with Naomi from the country of Moab. She has been here since early this morning working, taking only a brief rest. Truth be told, she has committed herself to following our God, ‘Your people shall be my people, and your God, my God’, I believe is the line she used.”
 
 
