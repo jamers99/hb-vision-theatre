@@ -4,7 +4,7 @@
 
 🎵 **MUSIC:** Someone Loves Us
 
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RAHAB, GREGO, ABY
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GREGO, ABY
 
 *Scene opens with Naomi and Ruth walking back into Bethlehem for the first time.*
 ⏱ **TIME:** 0:12
@@ -43,8 +43,6 @@
 
 
 *The crowd disperses.*
-
-> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH, RAHAB, GREGO, ABY
 
 **RAHAB** — “Well then we shall walk with you dear, to your home.”
 
@@ -293,8 +291,8 @@ Gossip is sin, I hate it the most”
 
 ## Ruth & Boaz—PART THREE
 
-> 🎤 **MIC:** Provide pit mic to Emily M. (Jenny) - on ground while gleaning
->
+> 🎤 **MIC:** Provide STAGE mic to gleaners in basic *(device unmuted via gleaner)*
+
 > 🎤 **MIC:** SWAP 🔀 - ⌛ Time Sensitive ⌛
 > - CH14 GRAN: Alea Glick (Eliza) → Kaley Shirk (Delilah)
 
@@ -308,7 +306,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, GRAN, ABY, SWING
+> 🎤 **MIC:** 🔊 HOT — RUTH, GRAN, ABY, SWING, PIT
 
 **DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 
@@ -321,12 +319,11 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 **HANNAH** — “I also have heard of you.”
 
-//todo these new actors need mics? 
-**LUCY** — “And I as well.” _(🎤: pit mic)_
+**LUCY** — “And I as well.” 
 
 **SUSIE** — “I too have heard of you!”
 
-**CATHY & NANCY** — “And us.”
+**CATHY & NANCY** — “And us.” _(🎤: STAGE mic in basket)_
 
 **RUTH** — “Sounds like word gets around quick.”
 
@@ -627,12 +624,14 @@ We will follow the command
 ## Naomi’s Plan—PART FIVE
 
 🎵 **MUSIC:** Miss Potter
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RUTH
+> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI
 
 **NARRATOR**
 
 Ruth gleans from the kindness and goodness of Boaz’s field for the entire day. Joining Boaz for a hearty lunch, where she is encouraged to pack leftovers.  
 In the end, Ruth finds herself with an entire Ephah of Barley, far more than could ever be expected of someone from her societal status. So with a spring in her step, and a heart filled of gratitude, Ruth returns to Naomi arms full.  
+
+> 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
 ⏱ **TIME:** 0:50
 
@@ -795,7 +794,7 @@ I think I maybe, just maybe, falling too
 ## The Threshing Floor—PART SIX 
 
 🔊 **SOUND:** Grass Hoppers
-> 🎤 **MIC:** 🔊 HOT — NARR, RUTH, BOAZ
+> 🎤 **MIC:** 🔊 HOT — RUTH, BOAZ
 
 *“So she went down to the threshing floor and did everything her mother-in-law had instructed her to do. When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him. In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!” (Ruth 3:6-8).*
 
@@ -824,6 +823,7 @@ Boaz—“It is true that I am a guardian-redeemer of your family, though there 
 
 **BOAZ** — “Thank you Ruth for your courage.”
 
+> 🎤 **MIC:** 🔊 HOT — NARR
 
 **NARRATOR**
 
@@ -951,7 +951,6 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 **BOAZ** — “Thank you, now if you will all excuse me! I must go find my bride!”
 
-
 *Scene switches to Naomi and Ruth.*
 
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
@@ -1003,7 +1002,7 @@ They both hug with joy that they will get married
 
 > 🎤 **MIC:** 🔊 ALL HOT
 
-> 🎤 **MIC:** 🔊 PRIORITY: RAHAB
+> 🎤 **MIC:** 🔊 OVERALL PRIORITY: RAHAB
 
 *(Everyone enters yelling)*  
 
@@ -1062,12 +1061,15 @@ In June!
 **ENSEMBLE**
 
 Will they be married soon  
+
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO
+
 **ELIZABETH** — Brand new romance, I love this news!
 
 
 **RAHAB** — Yes ooo
 
-> 🎤 **MIC:** 🔊 PRIORITY: ELIM
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL, ABY, GREGO
 
 **HANNAH** — Is this a lie or is it real?
 
@@ -1151,8 +1153,6 @@ When you’re a child, so little you do know (Little you must know)
 You are playing but then you fall and scape your elbow  
 Seeing you cry there, mother takes your hand, and she says she must teach you what to do  
 
-> 🎤 **MIC:** 🔊 ALL HOT 
-
 *((Chorus) Rehab starts to dance)*  
 You learn to dance, just dance, don’t miss this special chance  
 To jump and dance, romance, doing your best of prance  
@@ -1179,6 +1179,8 @@ To jump and dance, romance, doing your best of prance
 You see to dance, just dance, your life it will enhance  
 I know our God has given us this special skill  
 
+> 🎤 **MIC:** 🔊 ALL HOT 
+
 *(Ensemble)*  
 So we will dance, just dance, don’t miss this special chance  
 To jump and dance, romance, doing your best of prance  
@@ -1187,31 +1189,9 @@ I know our God has given us this special skill
 
 🎵 **MUSIC:** Kale Kale, Bride Bride
 
-*Everyone breaks out in a large wedding dance!*
-
-⏱ **TIME:** 0:25
-
-> 🎤 **MIC:** 🔊 PRIORITY: GREGO, ABY
-
-**ELIZABETH** — “Oh Abigail, what a fun wedding this is!”
-
-
-**ABIGAIL** — “I’ll say, and what a lovely couple.”
-
-
-**ELIZABETH** — “You know, ever since I met Ruth, I said to myself, this is a women of virtue and loyalty!”
-
-
-**ABIGAIL** — “I remember, true salt of the earth was my first impression.”
-
-
-**ELIZABETH** — “And look how right we were.”
-
-⏱ **TIME:** 0:54
-
-*Everyone Dances.*
-
 > 🎤 **MIC:** 🔇 ALL MUTED
+
+*Everyone breaks out in a large wedding dance!*
 
 ## THE END—PART TEN
 
@@ -1302,3 +1282,5 @@ The End
 💡 **LIGHTS:** Fade out
 
 *(We have just completed 1:50 minutes of drama run time)*
+
+> 🎤 **MIC:** 🔊 HOT — PIT
