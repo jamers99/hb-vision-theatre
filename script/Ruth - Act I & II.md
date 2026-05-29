@@ -35,6 +35,8 @@ Where the time, was like none before
 Lets go back, to a chosen people  
 Waking up to say  
 
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL, ABY, RAHAB, ELIM, GRAN
+
 **ELIZABETH** — Shalom!
 
 **ABIGAIL** — Shalom!
@@ -54,6 +56,8 @@ Every morning with their prayers
 Is a morning with new cares  
 In this small provincial town  
 
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO, NARR
+
 **JOSH** — “Well very well!”
 
 **NARRATOR** — “Is something bothering you?”
@@ -67,6 +71,8 @@ Working to pay off what we spend!
 We never get our way  
 Despite how much we pray  
 Welcome too our home of Bethlehem  
+
+> 🎤 **MIC:** 🔊 PRIORITY: SWING, ABY, VOCAL
 
 **HANNAH**
 
@@ -86,8 +92,9 @@ That’s too Expensive
 *(Group Ensemble)*  
 Welcome to our home of Bethlehem!  
 
-**GRANNY** — “Ahhh Good! Naomi! Finally I found you.”
+> 🎤 **MIC:** 🔊 PRIORITY: GRAN, NAOMI
 
+**GRANNY** — “Ahhh Good! Naomi! Finally I found you.”
 
 **NAOMI** — “Mother, what are you doing out? Why aren’t you home?”
 
@@ -95,8 +102,11 @@ Welcome to our home of Bethlehem!
 **GRANNY** — “My only home is that which lies in a grave. Anyhow, dear, no one was at the house! I got board. And your husband, littleshreck.”
 
 
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL
+
 **ELIZABETH** — “Elimalek”
 
+> 🎤 **MIC:** 🔊 PRIORITY: GRAN, NAOMI
 
 **GRANNY** — “He said I could go for a walk, apparently I was being intolerable! I figure I’ll smell the sweet scent of the hay-fields, and pray I’m not eaten by some starved vulture on the day I die…”
 
@@ -128,6 +138,8 @@ Welcome to our home of Bethleh
 *(Group Ensemble)*  
 Welcome to our home of Bethlehem  
 
+> 🎤 **MIC:** 🔊 PRIORITY: ELIM, RUTH
+
 **ELIMALEK** — “Shalom Zechariah, how is our leader doing?”
 
 
@@ -157,15 +169,19 @@ Now as time does go on
 Our love gets much more strong  
 I know God blessed me with my Naomi  
 
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL, BOAZ
+
 **ELIZABETH** — I need more time!
 
 **JONATHAN** — You must pay here now!
 
+> 🎤 **MIC:** 🔊 PRIORITY: ABY
 
 **DANIEL** — Please buy this bread *(🎤 projects into nearby mic — no headset)*
 
 **ABIGAIL** — It think its stale
 
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO, REHAB
 
 **JOSH** — Despise the judge!
 
@@ -174,6 +190,8 @@ I know God blessed me with my Naomi
 
 *(Ensemble)*  
 Welcome to our home of Bethlehem  
+
+> 🎤 **MIC:** 🔊 PRIORITY: GRAN, VOCAL, GRAN, RAHAB, RUTH
 
 **GRANNY** — Shalom
 
@@ -185,6 +203,7 @@ Welcome to our home of Bethlehem
 
 **ISRAELITE LEADER** — You need a doctor!
 
+> 🎤 **MIC:** 🔊 PRIORITY: GREGO, ABY
 
 **JOSH** — Please catch
 
@@ -192,12 +211,16 @@ Welcome to our home of Bethlehem
 
 **JOSH** — My goat
 
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL, ELIM, GRAN
+
 **ELIZABETH** — Hurry!
 
 **ELIMALEK** — I’ll get the rope!
 
 **GRANNY** — Please let me through!
 
+
+> 🎤 **MIC:** 🔊 PRIORITY: RAHAB, VOCAL, ELIM, NAOMI, RAHAB
 
 **RAHAB** — You know
 
@@ -212,6 +235,9 @@ Welcome to our home of Bethlehem
 
 *(Group Ensemble)*  
 Welcome to our home of Bethleh  
+
+> 🎤 **MIC:** 🔊 PRIORITY: RUTH
+
 **ISRAELITE LEADER** — Hurry Dear, I must find you a man!
 
 
@@ -223,6 +249,8 @@ The life we live within
 Welcome to our home of Bethleh  
 Welcome to our home of Bethleh  
 Welcome to our home of Bethlehem  
+
+> 🎤 **MIC:** 🔊 PRIORITY: VOCAL, ABY, RAHAB, ELIM, GRAN
 
 **ELIZABETH** — Shalom!
 
@@ -783,6 +811,8 @@ Stranger, you may meet a stranger
 Stranger, is the way you feel when near  
 Strangers, they were merely strangers  
 
+> 🎤 **MIC:** 🔊 HOT — RUTH, RAHAB, GRAN
+
 *— END OF SONG —*
 
 
@@ -1033,7 +1063,7 @@ God do you plan to maybe, use me
 
 **NARRATOR**
 
-> 🎤 **MIC:** 🔊 HOT — NARR, NAOMI, RAHAB, GRAN, SWING
+> 🎤 **MIC:** 🔊 HOT — NARR, **NAOMI**, RAHAB, **GRAN, SWING**
 
 “Ruth and Mahlon, to the joy of Naomi and Chilean, are happily married in the early spring. Late May, another young lady comes into the lives of our dear characters, Orpah. She too is charmed by the walk and Faith the little Hebrew family leads, and it only takes a few brief months for herself and Chilean to also fall and merry. This brings us to August, and while the corn harvest is at its end, things finally seem to be going in Naomi’s direction.”  
 
@@ -1442,6 +1472,8 @@ Everything worth living for is there in God’s plan
 # ❖ INTERMISSION
 
 ---
+
+> SCREEN: TURN ON 
 
 🎵 **MUSIC:** Emma Suite
 >
