@@ -3,5 +3,6 @@
   - [Act III](script/Ruth%20-%20Act%20III.md)
 - **Production**
   - [Mic Notes](mic-notes.md)
+  - [Pack Swaps](pack-swaps.md)
   - [Characters & Assignments](characters.md)
   - [Equipment](equipment.md)
