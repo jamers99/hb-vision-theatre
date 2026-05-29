@@ -955,6 +955,9 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 > 🎤 **MIC:** 🔊 HOT — NAOMI, RUTH
 
+> 🎤 **MIC:** SWAP 🔀
+> - CH12 VOCAL — Derek Esh (Daniel) → Emily Shirk (Hannah)
+
 **NAOMI** — “Sit down Ruth, you're pacing a valley in the floor.”
 
 
@@ -962,10 +965,6 @@ Naomi, once again over-joyed for the blessings, tells Ruth to wait with her, kno
 
 
 **NAOMI** — “Oh Ruth, Boaz is wise, he will get what he is aiming for. And If I’m not mistaken, I just saw him pass by the window.”
-
-> 🎤 **MIC:** SWAP 🔀
->
-> - CH04 ELIM — Derek Stoltzfus (Lewis) → Emily Shirk (Hannah)
 
 ### 🎵 Boaz’s Proposal
 
@@ -1116,6 +1115,9 @@ I wonder could it be, they marry!?
 > 🎤 **MIC:** 🔇 ALL MUTED
 
 💡 **LIGHTS:** Go black
+
+> 🎤 **MIC:** SWAP 🔀
+> - CH12 VOCAL — Emily Shirk (Hannah) → Derek Esh (Daniel)
 
 ## The Wedding—PART NINE
 

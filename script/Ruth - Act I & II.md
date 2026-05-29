@@ -269,10 +269,10 @@ Welcome to our home of Bethlehem
 > 🎤 **MIC:** SWAP 🔀
 > - CH09 RUTH: Alan Miller (Israelite Leader) → Elsie Weldon (Ruth)
 > - CH11 RAHAB: Zoe Yoder (Rahab) → Jamian Esh (Mahlon Adult)
-> - CH12 VOCAL & **HEADSET**: Olivia Yoder (Elizabeth) → Derek Esh
+> - CH12 VOCAL: Olivia Yoder (Elizabeth) → Derek Esh
 > - CH15 ABY: Hannah Flaud (Abigail) → Hudson Yoder (Little Mahlon)
 > - CH16 SWING: Emily Shirk (Hannah) → Kaley Shirk (Orpah)
-> - CH10 BOAZ & **HEADSET**: Chrit Glick (Jonathan) → Canon Beiler (Little Chilion)
+> - CH10 BOAZ: Chrit Glick (Jonathan) → Canon Beiler (Little Chilion)
 
 *Everyone breaks out in village commotion, speaking to one another making for a lively town scene. The scene then focuses on Naomi, Elimalek, and Granny at home, at a set dinner table.*
 
@@ -1274,8 +1274,8 @@ Our God above
 
 > 🎤 **MIC:** SWAP 🔀
 > - CH15 ABY: Hudson Yoder (Little Mahlon) → Hannah Flaud (Abigail)
-> - CH10 BOAZ & **HEADSET**: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
-> - CH13 GREGO & **HEADSET**: Greg Stoltzfoos (Moab Thug) → Olivia Yoder (Elizabeth)
+> - CH10 BOAZ: Canon Beiler (Little Chilion) → Chrit Glick (Boaz)
+> - CH13 GREGO: Greg Stoltzfoos (Moab Thug) → Olivia Yoder (Elizabeth)
 > - CH14 GRAN: Joshua Harrison (Chilion Adult) → Alea Glick (Granny)
 > - CH11 RAHAB: Jamian Esh (Mahlon Adult) → Zoe Yoder (Rahab)
 
