@@ -1260,7 +1260,7 @@ Always near to hold you close, as His own
 
 *Elimnalek looks to Naomi.*
 
-> 🎤 **MIC:** 🔊 HOT — ELIM, **NARR**, BOAZ, ABY
+> 🎤 **MIC:** 🔊 HOT — ELIM, **NAOMI**, BOAZ, ABY
 
 **ELIMALEK**
 
