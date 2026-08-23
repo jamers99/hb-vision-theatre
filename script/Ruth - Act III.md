@@ -306,7 +306,7 @@ Meanwhile, night falls, both Naomi and Ruth lye down to rest, overcome by a deep
 
 *— END OF SONG —*
 
-> 🎤 **MIC:** 🔊 HOT — RUTH, GRAN, ABY, SWING, PIT
+> 🎤 **MIC:** 🔊 HOT — RUTH, GRAN, ABY, SWING, STAGE
 
 **DELILAH** — “Shalom ladies! Oh a new women joining us, who might you be?”
 

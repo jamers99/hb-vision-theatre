@@ -1,4 +1,4 @@
-# Ruth the Musical — Act I & II
+55t# Ruth the Musical — Act I & II
 
 > 🎤 **MIC: Pre-show Checklist**
 >
@@ -301,7 +301,7 @@ Welcome to our home of Bethlehem
 
 **ELIMALEK** — “Let us talk about it later dear. Now, we shall take passover, thank God for provision and the land He has given us. Mahalon, Chilean, passover is prepared.” 
 
-> 🎤 **MIC:** 🔊 HOT — ELIM, NAOMI, **BOAZ**, GRAN, **ABY**
+> 🎤 **MIC:** 🔊 HOT — ELIM, NAOMI, GRAN, **ABY**
 
 *Mahlon and Chilean rush in to the table.*
 
@@ -856,6 +856,7 @@ Strangers, they were merely strangers
 
 **CHILION** — “Of-course”
 
+> 🎤 **MIC:** 🔊 PRIORITY: RAHAB, GRAN
 
 **MAHLON** — Can we eat some Pork?
 
@@ -880,6 +881,7 @@ Well we have just begun!
 
 **RUTH** — “Now it’s my turn to ask the questions?”
 
+> 🎤 **MIC:** 🔊 PRIORITY: RUTH, RAHAB
 
 **RUTH** — Can you drink some wine?
 
@@ -897,6 +899,7 @@ And always we should pray!
 Yes!  
 **MAHLON & CHILEAN** — Good, you’ll learn our!
 
+> 🎤 **MIC:** 🔊 PRIORITY: RAHAB, GRAN, RUTH
 
 **MAHLON (CHILION)**
 
